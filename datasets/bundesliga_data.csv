@@ -1,0 +1,651 @@
+team,season,league,mp,pts_diff,gd,home_xg_overperf
+Leverkusen,2023,bundesliga,34,0,7.0,6.899999999999999
+Stuttgart,2023,bundesliga,34,11,31.0,8.899999999999999
+Bayern Munich,2023,bundesliga,34,14,33.0,6.399999999999999
+RB Leipzig,2023,bundesliga,34,9,18.0,2.1000000000000014
+Dortmund,2023,bundesliga,34,3,5.0,0.6000000000000014
+Eint Frankfurt,2023,bundesliga,34,11,15.0,2.0
+Hoffenheim,2023,bundesliga,34,0,0.0,1.6000000000000014
+Heidenheim,2023,bundesliga,34,10,13.0,8.5
+Werder Bremen,2023,bundesliga,34,8,12.0,3.0
+Freiburg,2023,bundesliga,34,2,9.0,-3.0
+Augsburg,2023,bundesliga,34,9,10.0,3.6000000000000014
+Wolfsburg,2023,bundesliga,34,7,15.0,1.8000000000000007
+Mainz 05,2023,bundesliga,34,11,22.0,-3.1000000000000014
+Gladbach,2023,bundesliga,34,8,13.0,2.6000000000000014
+Union Berlin,2023,bundesliga,34,13,9.0,-0.10000000000000142
+Bochum,2023,bundesliga,34,13,26.0,-0.8999999999999986
+Köln,2023,bundesliga,34,5,6.0,-5.399999999999999
+Darmstadt 98,2023,bundesliga,34,-5,-2.0,-4.5
+Bayern Munich,2022,bundesliga,34,5,18.0,8.399999999999999
+Dortmund,2022,bundesliga,34,17,37.0,15.100000000000001
+RB Leipzig,2022,bundesliga,34,16,17.0,5.200000000000003
+Union Berlin,2022,bundesliga,34,16,25.0,9.8
+Freiburg,2022,bundesliga,34,9,23.0,0.3999999999999986
+Leverkusen,2022,bundesliga,34,4,16.0,5.399999999999999
+Eint Frankfurt,2022,bundesliga,34,14,28.0,3.6000000000000014
+Wolfsburg,2022,bundesliga,34,1,9.0,3.0
+Mainz 05,2022,bundesliga,34,2,13.0,7.600000000000001
+Gladbach,2022,bundesliga,34,23,33.0,1.0
+Köln,2022,bundesliga,34,4,21.0,0.8000000000000007
+Hoffenheim,2022,bundesliga,34,10,7.0,-2.3999999999999986
+Werder Bremen,2022,bundesliga,34,-2,9.0,4.5
+Bochum,2022,bundesliga,34,17,24.0,5.199999999999999
+Augsburg,2022,bundesliga,34,10,5.0,-1.1999999999999993
+Stuttgart,2022,bundesliga,34,9,14.0,-1.5
+Schalke 04,2022,bundesliga,34,9,10.0,0.6999999999999993
+Hertha BSC,2022,bundesliga,34,13,21.0,3.3000000000000007
+Bayern Munich,2021,bundesliga,34,5,6.0,4.899999999999999
+Dortmund,2021,bundesliga,34,9,15.0,14.200000000000003
+Leverkusen,2021,bundesliga,34,0,-1.0,8.8
+RB Leipzig,2021,bundesliga,34,12,17.0,6.899999999999999
+Union Berlin,2021,bundesliga,34,13,10.0,1.6999999999999993
+Freiburg,2021,bundesliga,34,3,2.0,3.0
+Köln,2021,bundesliga,34,10,9.0,-1.1999999999999993
+Mainz 05,2021,bundesliga,34,24,39.0,2.1000000000000014
+Hoffenheim,2021,bundesliga,34,10,22.0,1.7999999999999972
+Gladbach,2021,bundesliga,34,11,19.0,0.20000000000000284
+Eint Frankfurt,2021,bundesliga,34,-4,0.0,-1.8000000000000007
+Wolfsburg,2021,bundesliga,34,6,19.0,-2.3000000000000007
+Bochum,2021,bundesliga,34,14,22.0,-0.3999999999999986
+Augsburg,2021,bundesliga,34,12,15.0,3.1999999999999993
+Stuttgart,2021,bundesliga,34,11,10.0,1.8999999999999986
+Hertha BSC,2021,bundesliga,34,9,16.0,6.100000000000001
+Arminia,2021,bundesliga,34,4,10.0,1.9000000000000004
+Greuther Fürth,2021,bundesliga,34,10,18.0,-3.0
+Bayern Munich,2020,bundesliga,34,8,31.0,19.799999999999997
+RB Leipzig,2020,bundesliga,34,9,4.0,-7.200000000000003
+Dortmund,2020,bundesliga,34,6,11.0,3.299999999999997
+Wolfsburg,2020,bundesliga,34,7,8.0,7.899999999999999
+Eint Frankfurt,2020,bundesliga,34,14,18.0,7.600000000000001
+Leverkusen,2020,bundesliga,34,6,10.0,6.699999999999999
+Union Berlin,2020,bundesliga,34,14,21.0,6.600000000000001
+Gladbach,2020,bundesliga,34,7,18.0,5.800000000000001
+Stuttgart,2020,bundesliga,34,-3,1.0,2.6999999999999993
+Freiburg,2020,bundesliga,34,9,20.0,5.699999999999999
+Hoffenheim,2020,bundesliga,34,11,18.0,7.100000000000001
+Mainz 05,2020,bundesliga,34,-7,-3.0,-10.2
+Augsburg,2020,bundesliga,34,8,10.0,2.1999999999999993
+Hertha BSC,2020,bundesliga,34,5,1.0,-2.5
+Arminia,2020,bundesliga,34,5,6.0,-4.5
+Köln,2020,bundesliga,36,-8,-1.0,-0.8000000000000007
+Werder Bremen,2020,bundesliga,34,-3,-3.0,0.5999999999999996
+Schalke 04,2020,bundesliga,34,8,21.0,-2.1999999999999993
+Bayern Munich,2019,bundesliga,34,0,8.0,5.799999999999997
+Dortmund,2019,bundesliga,34,3,15.0,13.200000000000003
+RB Leipzig,2019,bundesliga,34,-8,-10.0,6.800000000000001
+Gladbach,2019,bundesliga,34,11,12.0,0.3999999999999986
+Leverkusen,2019,bundesliga,34,-1,3.0,-2.299999999999997
+Hoffenheim,2019,bundesliga,34,-8,-22.0,-3.3999999999999986
+Wolfsburg,2019,bundesliga,34,-11,-10.0,-6.0
+Freiburg,2019,bundesliga,34,10,11.0,0.10000000000000142
+Eint Frankfurt,2019,bundesliga,34,11,19.0,1.1000000000000014
+Hertha BSC,2019,bundesliga,34,1,-7.0,2.0
+Union Berlin,2019,bundesliga,34,13,25.0,0.6999999999999993
+Schalke 04,2019,bundesliga,34,5,6.0,-0.1999999999999993
+Mainz 05,2019,bundesliga,34,-3,-1.0,-6.0
+Köln,2019,bundesliga,34,8,20.0,2.1999999999999993
+Augsburg,2019,bundesliga,34,4,16.0,5.199999999999999
+Werder Bremen,2019,bundesliga,34,-13,-15.0,-5.0
+Düsseldorf,2019,bundesliga,34,6,11.0,-0.6999999999999993
+Paderborn 07,2019,bundesliga,34,-4,-13.0,0.3000000000000007
+Bayern Munich,2018,bundesliga,34,6,14.0,7.600000000000001
+Dortmund,2018,bundesliga,34,12,17.0,16.5
+RB Leipzig,2018,bundesliga,34,6,16.0,-1.8999999999999986
+Leverkusen,2018,bundesliga,34,0,-3.0,2.8000000000000007
+Gladbach,2018,bundesliga,34,5,5.0,0.3999999999999986
+Wolfsburg,2018,bundesliga,34,3,14.0,9.600000000000001
+Eint Frankfurt,2018,bundesliga,34,2,10.0,-1.3999999999999986
+Werder Bremen,2018,bundesliga,34,7,9.0,7.699999999999999
+Hoffenheim,2018,bundesliga,34,1,-2.0,-14.0
+Düsseldorf,2018,bundesliga,34,10,14.0,3.3999999999999986
+Hertha BSC,2018,bundesliga,34,5,6.0,-2.8999999999999986
+Mainz 05,2018,bundesliga,34,15,29.0,-1.2000000000000028
+Freiburg,2018,bundesliga,34,14,25.0,8.5
+Schalke 04,2018,bundesliga,34,-3,-6.0,-8.399999999999999
+Augsburg,2018,bundesliga,34,6,22.0,8.600000000000001
+Stuttgart,2018,bundesliga,34,16,28.0,-0.6999999999999993
+Hannover 96,2018,bundesliga,34,11,18.0,-4.100000000000001
+Nürnberg,2018,bundesliga,34,13,30.0,-4.800000000000001
+Bayern Munich,2017,bundesliga,34,4,18.0,9.200000000000003
+Schalke 04,2017,bundesliga,34,7,8.0,2.8999999999999986
+Hoffenheim,2017,bundesliga,34,19,26.0,13.100000000000001
+Dortmund,2017,bundesliga,34,7,21.0,0.7999999999999972
+Leverkusen,2017,bundesliga,34,3,6.0,-4.799999999999997
+RB Leipzig,2017,bundesliga,34,9,12.0,4.399999999999999
+Stuttgart,2017,bundesliga,34,17,18.0,-2.8000000000000007
+Eint Frankfurt,2017,bundesliga,34,7,14.0,-1.1999999999999993
+Gladbach,2017,bundesliga,34,15,21.0,-2.0
+Hertha BSC,2017,bundesliga,34,1,-5.0,5.0
+Werder Bremen,2017,bundesliga,34,8,9.0,-0.6999999999999993
+Augsburg,2017,bundesliga,34,3,3.0,-2.5
+Hannover 96,2017,bundesliga,34,15,16.0,3.6000000000000014
+Mainz 05,2017,bundesliga,34,12,16.0,1.3000000000000007
+Freiburg,2017,bundesliga,34,18,24.0,-6.600000000000001
+Wolfsburg,2017,bundesliga,34,1,8.0,1.8000000000000007
+Hamburger SV,2017,bundesliga,34,13,20.0,-5.100000000000001
+Köln,2017,bundesliga,34,6,15.0,-4.800000000000001
+Bayern Munich,2016,bundesliga,34,4,25,0
+RB Leipzig,2016,bundesliga,34,9,11,0
+Dortmund,2016,bundesliga,34,22,26,0
+Hoffenheim,2016,bundesliga,34,16,15,0
+Köln,2016,bundesliga,34,17,15,0
+Hertha BSC,2016,bundesliga,34,25,22,0
+Freiburg,2016,bundesliga,34,16,16,0
+Werder Bremen,2016,bundesliga,34,5,11,0
+Gladbach,2016,bundesliga,34,7,20,0
+Schalke 04,2016,bundesliga,34,15,23,0
+Eint Frankfurt,2016,bundesliga,34,14,19,0
+Leverkusen,2016,bundesliga,34,1,0,0
+Augsburg,2016,bundesliga,34,4,10,0
+Hamburger SV,2016,bundesliga,34,18,20,0
+Mainz 05,2016,bundesliga,34,13,19,0
+Wolfsburg,2016,bundesliga,34,-1,-2,0
+Ingolstadt 04,2016,bundesliga,34,2,3,0
+Darmstadt 98,2016,bundesliga,34,17,21,0
+Bayern Munich,2015,bundesliga,34,4,23,0
+Dortmund,2015,bundesliga,34,12,22,0
+Leverkusen,2015,bundesliga,34,6,12,0
+Gladbach,2015,bundesliga,34,25,31,0
+Schalke 04,2015,bundesliga,34,6,6,0
+Mainz 05,2015,bundesliga,34,6,6,0
+Hertha BSC,2015,bundesliga,34,14,18,0
+Wolfsburg,2015,bundesliga,34,19,32,0
+Köln,2015,bundesliga,34,-3,0,0
+Hamburger SV,2015,bundesliga,34,-3,0,0
+Ingolstadt 04,2015,bundesliga,34,12,17,0
+Augsburg,2015,bundesliga,34,-8,-8,0
+Werder Bremen,2015,bundesliga,34,2,9,0
+Darmstadt 98,2015,bundesliga,34,-14,-13,0
+Hoffenheim,2015,bundesliga,34,11,9,0
+Eint Frankfurt,2015,bundesliga,34,12,14,0
+Stuttgart,2015,bundesliga,34,5,5,0
+Hannover 96,2015,bundesliga,34,-1,1,0
+Bayern Munich,2014,bundesliga,34,7,16,0
+Wolfsburg,2014,bundesliga,34,17,16,0
+Gladbach,2014,bundesliga,34,12,9,0
+Leverkusen,2014,bundesliga,34,11,23,0
+Augsburg,2014,bundesliga,34,13,14,0
+Schalke 04,2014,bundesliga,34,22,22,0
+Dortmund,2014,bundesliga,34,14,17,0
+Hoffenheim,2014,bundesliga,34,16,16,0
+Eint Frankfurt,2014,bundesliga,34,21,26,0
+Werder Bremen,2014,bundesliga,34,13,17,0
+Mainz 05,2014,bundesliga,34,8,18,0
+Köln,2014,bundesliga,34,2,8,0
+Hannover 96,2014,bundesliga,34,7,8,0
+Stuttgart,2014,bundesliga,34,2,-2,0
+Hertha BSC,2014,bundesliga,34,9,6,0
+Hamburger SV,2014,bundesliga,34,11,21,0
+Freiburg,2014,bundesliga,34,8,9,0
+Paderborn 07,2014,bundesliga,34,5,14,0
+Bayern Munich,2013,bundesliga,34,2,0,0
+Dortmund,2013,bundesliga,34,-1,0,0
+Schalke 04,2013,bundesliga,34,12,0,0
+Leverkusen,2013,bundesliga,34,5,0,0
+Wolfsburg,2013,bundesliga,34,12,0,0
+Gladbach,2013,bundesliga,34,17,0,0
+Mainz 05,2013,bundesliga,34,13,0,0
+Augsburg,2013,bundesliga,34,8,0,0
+Hoffenheim,2013,bundesliga,34,10,0,0
+Hannover 96,2013,bundesliga,34,16,0,0
+Hertha BSC,2013,bundesliga,34,1,0,0
+Werder Bremen,2013,bundesliga,34,9,0,0
+Eint Frankfurt,2013,bundesliga,34,4,0,0
+Freiburg,2013,bundesliga,34,8,0,0
+Stuttgart,2013,bundesliga,34,6,0,0
+Hamburger SV,2013,bundesliga,34,9,0,0
+Nürnberg,2013,bundesliga,34,2,0,0
+Braunschweig,2013,bundesliga,34,11,0,0
+Bayern Munich,2012,bundesliga,34,-3,0,0
+Dortmund,2012,bundesliga,34,0,0,0
+Leverkusen,2012,bundesliga,34,13,0,0
+Schalke 04,2012,bundesliga,34,11,0,0
+Freiburg,2012,bundesliga,34,5,0,0
+Eint Frankfurt,2012,bundesliga,34,11,0,0
+Hamburger SV,2012,bundesliga,34,4,0,0
+Gladbach,2012,bundesliga,34,11,0,0
+Hannover 96,2012,bundesliga,34,19,0,0
+Nürnberg,2012,bundesliga,34,10,0,0
+Wolfsburg,2012,bundesliga,34,-9,0,0
+Stuttgart,2012,bundesliga,34,-5,0,0
+Mainz 05,2012,bundesliga,34,10,0,0
+Werder Bremen,2012,bundesliga,34,6,0,0
+Augsburg,2012,bundesliga,34,7,0,0
+Hoffenheim,2012,bundesliga,34,7,0,0
+Düsseldorf,2012,bundesliga,34,12,0,0
+Greuther Fürth,2012,bundesliga,34,-13,0,0
+Dortmund,2011,bundesliga,34,7,0,0
+Bayern Munich,2011,bundesliga,34,13,0,0
+Schalke 04,2011,bundesliga,34,16,0,0
+Gladbach,2011,bundesliga,34,8,0,0
+Leverkusen,2011,bundesliga,34,2,0,0
+Stuttgart,2011,bundesliga,34,13,0,0
+Hannover 96,2011,bundesliga,34,26,0,0
+Wolfsburg,2011,bundesliga,34,20,0,0
+Werder Bremen,2011,bundesliga,34,14,0,0
+Nürnberg,2011,bundesliga,34,2,0,0
+Hoffenheim,2011,bundesliga,34,1,0,0
+Freiburg,2011,bundesliga,34,8,0,0
+Mainz 05,2011,bundesliga,34,9,0,0
+Augsburg,2011,bundesliga,34,12,0,0
+Hamburger SV,2011,bundesliga,34,-4,0,0
+Hertha BSC,2011,bundesliga,34,-1,0,0
+Köln,2011,bundesliga,34,8,0,0
+Kaiserslautern,2011,bundesliga,34,-1,0,0
+Dortmund,2010,bundesliga,34,5,0,0
+Leverkusen,2010,bundesliga,34,-4,0,0
+Bayern Munich,2010,bundesliga,34,17,0,0
+Hannover 96,2010,bundesliga,34,14,0,0
+Mainz 05,2010,bundesliga,34,-6,0,0
+Nürnberg,2010,bundesliga,34,11,0,0
+Kaiserslautern,2010,bundesliga,34,2,0,0
+Hamburger SV,2010,bundesliga,34,7,0,0
+Freiburg,2010,bundesliga,34,8,0,0
+Köln,2010,bundesliga,34,26,0,0
+Hoffenheim,2010,bundesliga,34,9,0,0
+Stuttgart,2010,bundesliga,34,4,0,0
+Werder Bremen,2010,bundesliga,34,7,0,0
+Schalke 04,2010,bundesliga,34,8,0,0
+Wolfsburg,2010,bundesliga,34,4,0,0
+Gladbach,2010,bundesliga,34,0,0,0
+Eint Frankfurt,2010,bundesliga,34,4,0,0
+St. Pauli,2010,bundesliga,34,1,0,0
+Bayern Munich,2009,bundesliga,34,10,0,0
+Schalke 04,2009,bundesliga,34,5,0,0
+Werder Bremen,2009,bundesliga,34,-1,0,0
+Leverkusen,2009,bundesliga,34,17,0,0
+Dortmund,2009,bundesliga,34,11,0,0
+Stuttgart,2009,bundesliga,34,3,0,0
+Hamburger SV,2009,bundesliga,34,8,0,0
+Wolfsburg,2009,bundesliga,34,-4,0,0
+Mainz 05,2009,bundesliga,34,19,0,0
+Eint Frankfurt,2009,bundesliga,34,6,0,0
+Hoffenheim,2009,bundesliga,34,0,0,0
+Gladbach,2009,bundesliga,34,19,0,0
+Köln,2009,bundesliga,34,-8,0,0
+Freiburg,2009,bundesliga,34,3,0,0
+Hannover 96,2009,bundesliga,34,5,0,0
+Nürnberg,2009,bundesliga,34,7,0,0
+Bochum,2009,bundesliga,34,-4,0,0
+Hertha BSC,2009,bundesliga,34,-6,0,0
+Wolfsburg,2008,bundesliga,34,29,0,0
+Bayern Munich,2008,bundesliga,34,9,0,0
+Stuttgart,2008,bundesliga,34,14,0,0
+Hertha BSC,2008,bundesliga,34,15,0,0
+Hamburger SV,2008,bundesliga,34,21,0,0
+Dortmund,2008,bundesliga,34,7,0,0
+Hoffenheim,2008,bundesliga,34,9,0,0
+Schalke 04,2008,bundesliga,34,10,0,0
+Leverkusen,2008,bundesliga,34,-3,0,0
+Werder Bremen,2008,bundesliga,34,23,0,0
+Hannover 96,2008,bundesliga,34,22,0,0
+Köln,2008,bundesliga,34,-5,0,0
+Eint Frankfurt,2008,bundesliga,34,5,0,0
+Bochum,2008,bundesliga,34,6,0,0
+Gladbach,2008,bundesliga,34,7,0,0
+Energie Cottbus,2008,bundesliga,34,8,0,0
+Karlsruher,2008,bundesliga,34,9,0,0
+Arminia,2008,bundesliga,34,0,0,0
+Bayern Munich,2007,bundesliga,34,6,0,0
+Werder Bremen,2007,bundesliga,34,12,0,0
+Schalke 04,2007,bundesliga,34,4,0,0
+Hamburger SV,2007,bundesliga,34,10,0,0
+Wolfsburg,2007,bundesliga,34,0,0,0
+Stuttgart,2007,bundesliga,34,24,0,0
+Leverkusen,2007,bundesliga,34,11,0,0
+Hannover 96,2007,bundesliga,34,9,0,0
+Eint Frankfurt,2007,bundesliga,34,10,0,0
+Hertha BSC,2007,bundesliga,34,16,0,0
+Karlsruher,2007,bundesliga,34,5,0,0
+Bochum,2007,bundesliga,34,7,0,0
+Dortmund,2007,bundesliga,34,12,0,0
+Energie Cottbus,2007,bundesliga,34,16,0,0
+Arminia,2007,bundesliga,34,16,0,0
+Nürnberg,2007,bundesliga,34,13,0,0
+Hansa Rostock,2007,bundesliga,34,8,0,0
+MSV Duisburg,2007,bundesliga,34,-5,0,0
+Stuttgart,2006,bundesliga,34,8,0,0
+Schalke 04,2006,bundesliga,34,14,0,0
+Werder Bremen,2006,bundesliga,34,2,0,0
+Bayern Munich,2006,bundesliga,34,14,0,0
+Leverkusen,2006,bundesliga,34,3,0,0
+Nürnberg,2006,bundesliga,34,14,0,0
+Hamburger SV,2006,bundesliga,34,-3,0,0
+Bochum,2006,bundesliga,34,-1,0,0
+Dortmund,2006,bundesliga,34,4,0,0
+Hertha BSC,2006,bundesliga,34,10,0,0
+Hannover 96,2006,bundesliga,34,-2,0,0
+Arminia,2006,bundesliga,34,14,0,0
+Energie Cottbus,2006,bundesliga,34,5,0,0
+Eint Frankfurt,2006,bundesliga,34,0,0,0
+Wolfsburg,2006,bundesliga,34,11,0,0
+Mainz 05,2006,bundesliga,34,10,0,0
+AA Aachen,2006,bundesliga,34,4,0,0
+Gladbach,2006,bundesliga,34,16,0,0
+Bayern Munich,2005,bundesliga,34,13,0,0
+Werder Bremen,2005,bundesliga,34,8,0,0
+Hamburger SV,2005,bundesliga,34,-4,0,0
+Schalke 04,2005,bundesliga,34,11,0,0
+Leverkusen,2005,bundesliga,34,2,0,0
+Hertha BSC,2005,bundesliga,34,10,0,0
+Dortmund,2005,bundesliga,34,10,0,0
+Nürnberg,2005,bundesliga,34,16,0,0
+Stuttgart,2005,bundesliga,34,1,0,0
+Gladbach,2005,bundesliga,34,20,0,0
+Mainz 05,2005,bundesliga,34,12,0,0
+Hannover 96,2005,bundesliga,34,4,0,0
+Arminia,2005,bundesliga,34,15,0,0
+Eint Frankfurt,2005,bundesliga,34,4,0,0
+Wolfsburg,2005,bundesliga,34,10,0,0
+Kaiserslautern,2005,bundesliga,34,7,0,0
+Köln,2005,bundesliga,34,8,0,0
+MSV Duisburg,2005,bundesliga,34,9,0,0
+Bayern Munich,2004,bundesliga,34,11,0,0
+Schalke 04,2004,bundesliga,34,7,0,0
+Werder Bremen,2004,bundesliga,34,3,0,0
+Hertha BSC,2004,bundesliga,34,6,0,0
+Stuttgart,2004,bundesliga,34,18,0,0
+Leverkusen,2004,bundesliga,34,21,0,0
+Dortmund,2004,bundesliga,34,3,0,0
+Hamburger SV,2004,bundesliga,34,5,0,0
+Wolfsburg,2004,bundesliga,34,14,0,0
+Hannover 96,2004,bundesliga,34,7,0,0
+Mainz 05,2004,bundesliga,34,17,0,0
+Kaiserslautern,2004,bundesliga,34,10,0,0
+Arminia,2004,bundesliga,34,8,0,0
+Nürnberg,2004,bundesliga,34,-2,0,0
+Gladbach,2004,bundesliga,34,22,0,0
+Bochum,2004,bundesliga,34,11,0,0
+Hansa Rostock,2004,bundesliga,34,4,0,0
+Freiburg,2004,bundesliga,34,6,0,0
+Werder Bremen,2003,bundesliga,34,0,0,0
+Bayern Munich,2003,bundesliga,34,16,0,0
+Leverkusen,2003,bundesliga,34,9,0,0
+Stuttgart,2003,bundesliga,34,4,0,0
+Bochum,2003,bundesliga,34,20,0,0
+Dortmund,2003,bundesliga,34,23,0,0
+Schalke 04,2003,bundesliga,34,6,0,0
+Hamburger SV,2003,bundesliga,34,23,0,0
+Hansa Rostock,2003,bundesliga,34,18,0,0
+Wolfsburg,2003,bundesliga,34,26,0,0
+Gladbach,2003,bundesliga,34,15,0,0
+Hertha BSC,2003,bundesliga,34,9,0,0
+Freiburg,2003,bundesliga,34,28,0,0
+Hannover 96,2003,bundesliga,34,7,0,0
+Kaiserslautern,2003,bundesliga,34,19,0,0
+Eint Frankfurt,2003,bundesliga,34,12,0,0
+1860 Munich,2003,bundesliga,34,6,0,0
+Köln,2003,bundesliga,34,17,0,0
+Bayern Munich,2002,bundesliga,34,9,0,0
+Stuttgart,2002,bundesliga,34,5,0,0
+Dortmund,2002,bundesliga,34,14,0,0
+Hamburger SV,2002,bundesliga,34,28,0,0
+Hertha BSC,2002,bundesliga,34,14,0,0
+Werder Bremen,2002,bundesliga,34,12,0,0
+Schalke 04,2002,bundesliga,34,3,0,0
+Wolfsburg,2002,bundesliga,34,24,0,0
+Bochum,2002,bundesliga,34,1,0,0
+1860 Munich,2002,bundesliga,34,1,0,0
+Hannover 96,2002,bundesliga,34,-7,0,0
+Gladbach,2002,bundesliga,34,28,0,0
+Hansa Rostock,2002,bundesliga,34,5,0,0
+Kaiserslautern,2002,bundesliga,34,20,0,0
+Leverkusen,2002,bundesliga,34,2,0,0
+Arminia,2002,bundesliga,34,16,0,0
+Nürnberg,2002,bundesliga,34,2,0,0
+Energie Cottbus,2002,bundesliga,34,0,0,0
+Dortmund,2001,bundesliga,34,8,0,0
+Leverkusen,2001,bundesliga,34,17,0,0
+Bayern Munich,2001,bundesliga,34,14,0,0
+Hertha BSC,2001,bundesliga,34,21,0,0
+Schalke 04,2001,bundesliga,34,21,0,0
+Werder Bremen,2001,bundesliga,34,14,0,0
+Kaiserslautern,2001,bundesliga,34,18,0,0
+Stuttgart,2001,bundesliga,34,8,0,0
+1860 Munich,2001,bundesliga,34,4,0,0
+Wolfsburg,2001,bundesliga,34,14,0,0
+Hamburger SV,2001,bundesliga,34,14,0,0
+Gladbach,2001,bundesliga,34,7,0,0
+Energie Cottbus,2001,bundesliga,34,21,0,0
+Hansa Rostock,2001,bundesliga,34,14,0,0
+Nürnberg,2001,bundesliga,34,14,0,0
+Freiburg,2001,bundesliga,34,16,0,0
+Köln,2001,bundesliga,34,11,0,0
+St. Pauli,2001,bundesliga,34,10,0,0
+Bayern Munich,2000,bundesliga,34,11,0,0
+Schalke 04,2000,bundesliga,34,18,0,0
+Dortmund,2000,bundesliga,34,4,0,0
+Leverkusen,2000,bundesliga,34,7,0,0
+Hertha BSC,2000,bundesliga,34,14,0,0
+Freiburg,2000,bundesliga,34,9,0,0
+Werder Bremen,2000,bundesliga,34,15,0,0
+Kaiserslautern,2000,bundesliga,34,4,0,0
+Wolfsburg,2000,bundesliga,34,13,0,0
+Köln,2000,bundesliga,34,12,0,0
+1860 Munich,2000,bundesliga,34,10,0,0
+Hansa Rostock,2000,bundesliga,34,15,0,0
+Hamburger SV,2000,bundesliga,34,19,0,0
+Energie Cottbus,2000,bundesliga,34,23,0,0
+Stuttgart,2000,bundesliga,34,26,0,0
+Unterhaching,2000,bundesliga,34,19,0,0
+Eint Frankfurt,2000,bundesliga,34,19,0,0
+Bochum,2000,bundesliga,34,11,0,0
+Bayern Munich,1999,bundesliga,34,5,0,0
+Leverkusen,1999,bundesliga,34,13,0,0
+Hamburger SV,1999,bundesliga,34,15,0,0
+1860 Munich,1999,bundesliga,34,19,0,0
+Kaiserslautern,1999,bundesliga,34,4,0,0
+Hertha BSC,1999,bundesliga,34,12,0,0
+Wolfsburg,1999,bundesliga,34,13,0,0
+Stuttgart,1999,bundesliga,34,-8,0,0
+Werder Bremen,1999,bundesliga,34,19,0,0
+Unterhaching,1999,bundesliga,34,26,0,0
+Dortmund,1999,bundesliga,34,-2,0,0
+Freiburg,1999,bundesliga,34,16,0,0
+Schalke 04,1999,bundesliga,34,5,0,0
+Eint Frankfurt,1999,bundesliga,34,19,0,0
+Hansa Rostock,1999,bundesliga,34,18,0,0
+Ulm,1999,bundesliga,34,15,0,0
+Arminia,1999,bundesliga,34,6,0,0
+MSV Duisburg,1999,bundesliga,34,6,0,0
+Bayern Munich,1998,bundesliga,34,12,0,0
+Leverkusen,1998,bundesliga,34,3,0,0
+Hertha BSC,1998,bundesliga,34,24,0,0
+Dortmund,1998,bundesliga,34,31,0,0
+Kaiserslautern,1998,bundesliga,34,15,0,0
+Wolfsburg,1998,bundesliga,34,15,0,0
+Hamburger SV,1998,bundesliga,34,14,0,0
+MSV Duisburg,1998,bundesliga,34,15,0,0
+1860 Munich,1998,bundesliga,34,9,0,0
+Schalke 04,1998,bundesliga,34,1,0,0
+Stuttgart,1998,bundesliga,34,19,0,0
+Freiburg,1998,bundesliga,34,3,0,0
+Werder Bremen,1998,bundesliga,34,-2,0,0
+Hansa Rostock,1998,bundesliga,34,16,0,0
+Eint Frankfurt,1998,bundesliga,34,11,0,0
+Nürnberg,1998,bundesliga,34,3,0,0
+Bochum,1998,bundesliga,34,7,0,0
+Gladbach,1998,bundesliga,34,11,0,0
+Kaiserslautern,1997,bundesliga,34,14,0,0
+Bayern Munich,1997,bundesliga,34,8,0,0
+Leverkusen,1997,bundesliga,34,13,0,0
+Stuttgart,1997,bundesliga,34,18,0,0
+Schalke 04,1997,bundesliga,34,18,0,0
+Hansa Rostock,1997,bundesliga,34,9,0,0
+Werder Bremen,1997,bundesliga,34,10,0,0
+MSV Duisburg,1997,bundesliga,34,4,0,0
+Hamburger SV,1997,bundesliga,34,2,0,0
+Dortmund,1997,bundesliga,34,13,0,0
+Hertha BSC,1997,bundesliga,34,11,0,0
+Bochum,1997,bundesliga,34,15,0,0
+1860 Munich,1997,bundesliga,34,7,0,0
+Wolfsburg,1997,bundesliga,34,11,0,0
+Gladbach,1997,bundesliga,34,8,0,0
+Karlsruher,1997,bundesliga,34,8,0,0
+Köln,1997,bundesliga,34,18,0,0
+Arminia,1997,bundesliga,34,20,0,0
+Bayern Munich,1996,bundesliga,34,15,0,0
+Leverkusen,1996,bundesliga,34,23,0,0
+Dortmund,1996,bundesliga,34,17,0,0
+Stuttgart,1996,bundesliga,34,15,0,0
+Bochum,1996,bundesliga,34,23,0,0
+Karlsruher,1996,bundesliga,34,9,0,0
+1860 Munich,1996,bundesliga,34,11,0,0
+Werder Bremen,1996,bundesliga,34,22,0,0
+MSV Duisburg,1996,bundesliga,34,1,0,0
+Köln,1996,bundesliga,34,12,0,0
+Gladbach,1996,bundesliga,34,21,0,0
+Schalke 04,1996,bundesliga,34,1,0,0
+Hamburger SV,1996,bundesliga,34,15,0,0
+Arminia,1996,bundesliga,34,6,0,0
+Hansa Rostock,1996,bundesliga,34,4,0,0
+Düsseldorf,1996,bundesliga,34,7,0,0
+Freiburg,1996,bundesliga,34,15,0,0
+St Pauli,1996,bundesliga,34,11,0,0
+Dortmund,1995,bundesliga,34,12,0,0
+Bayern Munich,1995,bundesliga,34,10,0,0
+Schalke 04,1995,bundesliga,34,6,0,0
+Gladbach,1995,bundesliga,34,5,0,0
+Hamburger SV,1995,bundesliga,34,12,0,0
+Hansa Rostock,1995,bundesliga,34,3,0,0
+Karlsruher,1995,bundesliga,34,0,0,0
+1860 Munich,1995,bundesliga,34,17,0,0
+Werder Bremen,1995,bundesliga,34,10,0,0
+Stuttgart,1995,bundesliga,34,3,0,0
+Freiburg,1995,bundesliga,34,8,0,0
+Köln,1995,bundesliga,34,4,0,0
+Düsseldorf,1995,bundesliga,34,12,0,0
+Leverkusen,1995,bundesliga,34,2,0,0
+St Pauli,1995,bundesliga,34,6,0,0
+Kaiserslautern,1995,bundesliga,34,6,0,0
+Eint Frankfurt,1995,bundesliga,34,18,0,0
+Uerdingen,1995,bundesliga,34,10,0,0
+Dortmund,1994,bundesliga,34,15,0,0
+Werder Bremen,1994,bundesliga,34,16,0,0
+Freiburg,1994,bundesliga,34,8,0,0
+Kaiserslautern,1994,bundesliga,34,11,0,0
+Gladbach,1994,bundesliga,34,10,0,0
+Bayern Munich,1994,bundesliga,34,10,0,0
+Leverkusen,1994,bundesliga,34,3,0,0
+Karlsruher,1994,bundesliga,34,15,0,0
+Eint Frankfurt,1994,bundesliga,34,21,0,0
+Köln,1994,bundesliga,34,11,0,0
+Schalke 04,1994,bundesliga,34,13,0,0
+Stuttgart,1994,bundesliga,34,20,0,0
+Hamburger SV,1994,bundesliga,34,11,0,0
+1860 Munich,1994,bundesliga,34,15,0,0
+Uerdingen,1994,bundesliga,34,12,0,0
+Bochum,1994,bundesliga,34,9,0,0
+MSV Duisburg,1994,bundesliga,34,12,0,0
+Dresden,1994,bundesliga,34,10,0,0
+Bayern Munich,1993,bundesliga,34,23,0,0
+Kaiserslautern,1993,bundesliga,34,19,0,0
+Leverkusen,1993,bundesliga,34,17,0,0
+Dortmund,1993,bundesliga,34,28,0,0
+Eint Frankfurt,1993,bundesliga,34,5,0,0
+Karlsruher,1993,bundesliga,34,24,0,0
+Stuttgart,1993,bundesliga,34,10,0,0
+Werder Bremen,1993,bundesliga,34,15,0,0
+MSV Duisburg,1993,bundesliga,34,4,0,0
+Gladbach,1993,bundesliga,34,15,0,0
+Köln,1993,bundesliga,34,10,0,0
+Hamburger SV,1993,bundesliga,34,5,0,0
+Dresden,1993,bundesliga,34,12,0,0
+Schalke 04,1993,bundesliga,34,11,0,0
+Freiburg,1993,bundesliga,34,6,0,0
+Nürnberg,1993,bundesliga,34,12,0,0
+Wattenscheid,1993,bundesliga,34,17,0,0
+VfB Leipzig,1993,bundesliga,34,10,0,0
+Werder Bremen,1992,bundesliga,34,23,0,0
+Bayern Munich,1992,bundesliga,34,15,0,0
+Eint Frankfurt,1992,bundesliga,34,9,0,0
+Dortmund,1992,bundesliga,34,15,0,0
+Leverkusen,1992,bundesliga,34,18,0,0
+Karlsruher,1992,bundesliga,34,25,0,0
+Stuttgart,1992,bundesliga,34,18,0,0
+Kaiserslautern,1992,bundesliga,34,16,0,0
+Gladbach,1992,bundesliga,34,2,0,0
+Schalke 04,1992,bundesliga,34,3,0,0
+Hamburger SV,1992,bundesliga,34,3,0,0
+Köln,1992,bundesliga,34,24,0,0
+Nürnberg,1992,bundesliga,34,14,0,0
+Wattenscheid,1992,bundesliga,34,20,0,0
+Dresden,1992,bundesliga,34,20,0,0
+Bochum,1992,bundesliga,34,22,0,0
+Uerdingen,1992,bundesliga,34,11,0,0
+Saarbrücken,1992,bundesliga,34,6,0,0
+Stuttgart,1991,bundesliga,38,17,0,0
+Dortmund,1991,bundesliga,38,18,0,0
+Eint Frankfurt,1991,bundesliga,38,6,0,0
+Köln,1991,bundesliga,38,1,0,0
+Kaiserslautern,1991,bundesliga,38,29,0,0
+Leverkusen,1991,bundesliga,38,16,0,0
+Nürnberg,1991,bundesliga,38,15,0,0
+Karlsruher,1991,bundesliga,38,13,0,0
+Werder Bremen,1991,bundesliga,38,7,0,0
+Bayern Munich,1991,bundesliga,38,11,0,0
+Schalke 04,1991,bundesliga,38,25,0,0
+Hamburger SV,1991,bundesliga,38,7,0,0
+Gladbach,1991,bundesliga,38,20,0,0
+Dresden,1991,bundesliga,38,24,0,0
+Bochum,1991,bundesliga,38,7,0,0
+Wattenscheid,1991,bundesliga,38,11,0,0
+S'gart Kickers,1991,bundesliga,38,1,0,0
+Hansa Rostock,1991,bundesliga,38,25,0,0
+MSV Duisburg,1991,bundesliga,38,15,0,0
+Düsseldorf,1991,bundesliga,38,8,0,0
+Kaiserslautern,1990,bundesliga,34,9,0,0
+Bayern Munich,1990,bundesliga,34,1,0,0
+Werder Bremen,1990,bundesliga,34,14,0,0
+Eint Frankfurt,1990,bundesliga,34,17,0,0
+Hamburger SV,1990,bundesliga,34,16,0,0
+Stuttgart,1990,bundesliga,34,6,0,0
+Köln,1990,bundesliga,34,8,0,0
+Leverkusen,1990,bundesliga,34,10,0,0
+Gladbach,1990,bundesliga,34,12,0,0
+Dortmund,1990,bundesliga,34,-6,0,0
+Wattenscheid,1990,bundesliga,34,2,0,0
+Düsseldorf,1990,bundesliga,34,5,0,0
+Karlsruher,1990,bundesliga,34,17,0,0
+Bochum,1990,bundesliga,34,4,0,0
+Nürnberg,1990,bundesliga,34,5,0,0
+St Pauli,1990,bundesliga,34,11,0,0
+Uerdingen,1990,bundesliga,34,4,0,0
+Hertha BSC,1990,bundesliga,34,3,0,0
+Bayern Munich,1989,bundesliga,34,20,0,0
+Köln,1989,bundesliga,34,2,0,0
+Eint Frankfurt,1989,bundesliga,34,16,0,0
+Dortmund,1989,bundesliga,34,20,0,0
+Leverkusen,1989,bundesliga,34,7,0,0
+Stuttgart,1989,bundesliga,34,33,0,0
+Werder Bremen,1989,bundesliga,34,18,0,0
+Nürnberg,1989,bundesliga,34,16,0,0
+Düsseldorf,1989,bundesliga,34,10,0,0
+Karlsruher,1989,bundesliga,34,20,0,0
+Hamburger SV,1989,bundesliga,34,22,0,0
+Kaiserslautern,1989,bundesliga,34,15,0,0
+St Pauli,1989,bundesliga,34,12,0,0
+Uerdingen,1989,bundesliga,34,10,0,0
+Gladbach,1989,bundesliga,34,17,0,0
+Bochum,1989,bundesliga,34,18,0,0
+Mannheim,1989,bundesliga,34,16,0,0
+Homburg,1989,bundesliga,34,10,0,0
+Bayern Munich,1988,bundesliga,34,21,0,0
+Köln,1988,bundesliga,34,15,0,0
+Werder Bremen,1988,bundesliga,34,26,0,0
+Hamburger SV,1988,bundesliga,34,4,0,0
+Stuttgart,1988,bundesliga,34,23,0,0
+Gladbach,1988,bundesliga,34,18,0,0
+Dortmund,1988,bundesliga,34,11,0,0
+Leverkusen,1988,bundesliga,34,12,0,0
+Kaiserslautern,1988,bundesliga,34,19,0,0
+St Pauli,1988,bundesliga,34,21,0,0
+Karlsruher,1988,bundesliga,34,10,0,0
+Mannheim,1988,bundesliga,34,9,0,0
+Uerdingen,1988,bundesliga,34,13,0,0
+Nürnberg,1988,bundesliga,34,20,0,0
+Bochum,1988,bundesliga,34,17,0,0
+Eint Frankfurt,1988,bundesliga,34,16,0,0
+S'gart Kickers,1988,bundesliga,34,4,0,0
+Hannover 96,1988,bundesliga,34,5,0,0

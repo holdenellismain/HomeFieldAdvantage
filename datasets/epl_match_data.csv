@@ -1,0 +1,957 @@
+team,match_date,comp,stage,HAN,vs,gd,xgd,attendance
+Arsenal,8/6/2023,Community Shield,FA Community Shield,N,Manchester City,0,0,81145
+Manchester City,8/6/2023,Community Shield,FA Community Shield,N,Arsenal,0,0,81145
+Burnley,8/11/2023,Premier League,Matchweek 1,H,Manchester City,-3,-1.6,21572
+Manchester City,8/11/2023,Premier League,Matchweek 1,A,Burnley,3,1.6,21572
+Arsenal,8/12/2023,Premier League,Matchweek 1,H,Nott'ham Forest,1,-0.4,59984
+Nott'ham Forest,8/12/2023,Premier League,Matchweek 1,A,Arsenal,-1,0.4,59984
+Aston Villa,8/12/2023,Premier League,Matchweek 1,A,Newcastle Utd,-4,-1.5,52207
+Newcastle Utd,8/12/2023,Premier League,Matchweek 1,H,Aston Villa,4,1.5,52207
+Everton,8/12/2023,Premier League,Matchweek 1,H,Fulham,-1,1.2,39940
+Fulham,8/12/2023,Premier League,Matchweek 1,A,Everton,1,-1.2,39940
+Brighton,8/12/2023,Premier League,Matchweek 1,H,Luton Town,3,2.5,31872
+Luton Town,8/12/2023,Premier League,Matchweek 1,A,Brighton,-3,-2.5,31872
+Crystal Palace,8/12/2023,Premier League,Matchweek 1,A,Sheffield Utd,1,1.4,31194
+Sheffield Utd,8/12/2023,Premier League,Matchweek 1,H,Crystal Palace,-1,-1.4,31194
+Bournemouth,8/12/2023,Premier League,Matchweek 1,H,West Ham,0,0.2,11245
+West Ham,8/12/2023,Premier League,Matchweek 1,A,Bournemouth,0,-0.2,11245
+Chelsea,8/13/2023,Premier League,Matchweek 1,H,Liverpool,0,0.1,40096
+Liverpool,8/13/2023,Premier League,Matchweek 1,A,Chelsea,0,-0.1,40096
+Brentford,8/13/2023,Premier League,Matchweek 1,H,Tottenham,0,0.9,17066
+Tottenham,8/13/2023,Premier League,Matchweek 1,A,Brentford,0,-0.9,17066
+Manchester Utd,8/14/2023,Premier League,Matchweek 1,H,Wolves,1,0,73358
+Wolves,8/14/2023,Premier League,Matchweek 1,A,Manchester Utd,-1,0,73358
+Manchester City,8/16/2023,Super Cup,UEFA Super Cup,N,Sevilla,0,0,0
+Nott'ham Forest,8/18/2023,Premier League,Matchweek 2,H,Sheffield Utd,1,0.9,29432
+Sheffield Utd,8/18/2023,Premier League,Matchweek 2,A,Nott'ham Forest,-1,-0.9,29432
+Manchester Utd,8/19/2023,Premier League,Matchweek 2,A,Tottenham,-2,0.4,61910
+Tottenham,8/19/2023,Premier League,Matchweek 2,H,Manchester Utd,2,-0.4,61910
+Manchester City,8/19/2023,Premier League,Matchweek 2,H,Newcastle Utd,1,0.7,53419
+Newcastle Utd,8/19/2023,Premier League,Matchweek 2,A,Manchester City,-1,-0.7,53419
+Bournemouth,8/19/2023,Premier League,Matchweek 2,A,Liverpool,-2,-1.7,53145
+Liverpool,8/19/2023,Premier League,Matchweek 2,H,Bournemouth,2,1.7,53145
+Brighton,8/19/2023,Premier League,Matchweek 2,A,Wolves,3,0.1,31317
+Wolves,8/19/2023,Premier League,Matchweek 2,H,Brighton,-3,-0.1,31317
+Brentford,8/19/2023,Premier League,Matchweek 2,A,Fulham,3,3.2,24236
+Fulham,8/19/2023,Premier League,Matchweek 2,H,Brentford,-3,-3.2,24236
+Chelsea,8/20/2023,Premier League,Matchweek 2,A,West Ham,-2,0.7,62451
+West Ham,8/20/2023,Premier League,Matchweek 2,H,Chelsea,2,-0.7,62451
+Aston Villa,8/20/2023,Premier League,Matchweek 2,H,Everton,4,2.3,41694
+Everton,8/20/2023,Premier League,Matchweek 2,A,Aston Villa,-4,-2.3,41694
+Arsenal,8/21/2023,Premier League,Matchweek 2,A,Crystal Palace,1,1,24189
+Crystal Palace,8/21/2023,Premier League,Matchweek 2,H,Arsenal,-1,-1,24189
+Aston Villa,8/23/2023,Conf Lg,Play-off round,A,Hibernian,5,0,19306
+Chelsea,8/25/2023,Premier League,Matchweek 3,H,Luton Town,3,1.8,39893
+Luton Town,8/25/2023,Premier League,Matchweek 3,A,Chelsea,-3,-1.8,39893
+Manchester Utd,8/26/2023,Premier League,Matchweek 3,H,Nott'ham Forest,1,1.6,73595
+Nott'ham Forest,8/26/2023,Premier League,Matchweek 3,A,Manchester Utd,-1,-1.6,73595
+Arsenal,8/26/2023,Premier League,Matchweek 3,H,Fulham,0,2.6,59961
+Fulham,8/26/2023,Premier League,Matchweek 3,A,Arsenal,0,-2.6,59961
+Everton,8/26/2023,Premier League,Matchweek 3,H,Wolves,-1,0.2,38851
+Wolves,8/26/2023,Premier League,Matchweek 3,A,Everton,1,-0.2,38851
+Brighton,8/26/2023,Premier League,Matchweek 3,H,West Ham,-2,-1.5,31508
+West Ham,8/26/2023,Premier League,Matchweek 3,A,Brighton,2,1.5,31508
+Brentford,8/26/2023,Premier League,Matchweek 3,H,Crystal Palace,0,0.2,16997
+Crystal Palace,8/26/2023,Premier League,Matchweek 3,A,Brentford,0,-0.2,16997
+Bournemouth,8/26/2023,Premier League,Matchweek 3,H,Tottenham,-2,-1.4,10567
+Tottenham,8/26/2023,Premier League,Matchweek 3,A,Bournemouth,2,1.4,10567
+Liverpool,8/27/2023,Premier League,Matchweek 3,A,Newcastle Utd,1,-1.1,52214
+Newcastle Utd,8/27/2023,Premier League,Matchweek 3,H,Liverpool,-1,1.1,52214
+Manchester City,8/27/2023,Premier League,Matchweek 3,A,Sheffield Utd,1,2.8,31336
+Sheffield Utd,8/27/2023,Premier League,Matchweek 3,H,Manchester City,-1,-2.8,31336
+Aston Villa,8/27/2023,Premier League,Matchweek 3,A,Burnley,2,1.8,21591
+Burnley,8/27/2023,Premier League,Matchweek 3,H,Aston Villa,-2,-1.8,21591
+Fulham,8/29/2023,EFL Cup,Second round,H,Tottenham,0,0,21043
+Tottenham,8/29/2023,EFL Cup,Second round,A,Fulham,0,0,21043
+Wolves,8/29/2023,EFL Cup,Second round,H,Blackpool,5,0,20605
+Crystal Palace,8/29/2023,EFL Cup,Second round,A,Plymouth Argyle,2,0,15826
+Luton Town,8/29/2023,EFL Cup,Second round,H,Gillingham,1,0,9468
+Bournemouth,8/29/2023,EFL Cup,Second round,A,Swansea City,1,0,8785
+Brentford,8/29/2023,EFL Cup,Second round,A,Newport County,0,0,5916
+Chelsea,8/30/2023,EFL Cup,Second round,H,AFC Wimbledon,1,0,37794
+Burnley,8/30/2023,EFL Cup,Second round,A,Nott'ham Forest,1,0,27766
+Nott'ham Forest,8/30/2023,EFL Cup,Second round,H,Burnley,-1,0,27766
+Everton,8/30/2023,EFL Cup,Second round,A,Doncaster,1,0,11430
+Sheffield Utd,8/30/2023,EFL Cup,Second round,H,Lincoln City,0,0,11040
+Aston Villa,8/31/2023,Conf Lg,Play-off round,H,Hibernian,3,0,39467
+Luton Town,9/1/2023,Premier League,Matchweek 4,H,West Ham,-1,0.4,10802
+West Ham,9/1/2023,Premier League,Matchweek 4,A,Luton Town,1,-0.4,10802
+Fulham,9/2/2023,Premier League,Matchweek 4,A,Manchester City,-4,-0.8,52899
+Manchester City,9/2/2023,Premier League,Matchweek 4,H,Fulham,4,0.8,52899
+Chelsea,9/2/2023,Premier League,Matchweek 4,H,Nott'ham Forest,-1,1.5,39820
+Nott'ham Forest,9/2/2023,Premier League,Matchweek 4,A,Chelsea,1,-1.5,39820
+Brighton,9/2/2023,Premier League,Matchweek 4,H,Newcastle Utd,2,0.1,31620
+Newcastle Utd,9/2/2023,Premier League,Matchweek 4,A,Brighton,-2,-0.1,31620
+Everton,9/2/2023,Premier League,Matchweek 4,A,Sheffield Utd,0,1.3,31124
+Sheffield Utd,9/2/2023,Premier League,Matchweek 4,H,Everton,0,-1.3,31124
+Burnley,9/2/2023,Premier League,Matchweek 4,H,Tottenham,-3,-0.9,21750
+Tottenham,9/2/2023,Premier League,Matchweek 4,A,Burnley,3,0.9,21750
+Bournemouth,9/2/2023,Premier League,Matchweek 4,A,Brentford,0,-0.8,16973
+Brentford,9/2/2023,Premier League,Matchweek 4,H,Bournemouth,0,0.8,16973
+Arsenal,9/3/2023,Premier League,Matchweek 4,H,Manchester Utd,2,1.4,60192
+Manchester Utd,9/3/2023,Premier League,Matchweek 4,A,Arsenal,-2,-1.4,60192
+Aston Villa,9/3/2023,Premier League,Matchweek 4,A,Liverpool,-3,-1.8,50109
+Liverpool,9/3/2023,Premier League,Matchweek 4,H,Aston Villa,3,1.8,50109
+Crystal Palace,9/3/2023,Premier League,Matchweek 4,H,Wolves,1,0.9,24741
+Wolves,9/3/2023,Premier League,Matchweek 4,A,Crystal Palace,-1,-0.9,24741
+Brighton,9/16/2023,Premier League,Matchweek 5,A,Manchester Utd,2,0.7,73592
+Manchester Utd,9/16/2023,Premier League,Matchweek 5,H,Brighton,-2,-0.7,73592
+Manchester City,9/16/2023,Premier League,Matchweek 5,A,West Ham,2,2.7,62475
+West Ham,9/16/2023,Premier League,Matchweek 5,H,Manchester City,-2,-2.7,62475
+Sheffield Utd,9/16/2023,Premier League,Matchweek 5,A,Tottenham,-1,-1.4,61706
+Tottenham,9/16/2023,Premier League,Matchweek 5,H,Sheffield Utd,1,1.4,61706
+Brentford,9/16/2023,Premier League,Matchweek 5,A,Newcastle Utd,-1,-0.9,51670
+Newcastle Utd,9/16/2023,Premier League,Matchweek 5,H,Brentford,1,0.9,51670
+Aston Villa,9/16/2023,Premier League,Matchweek 5,H,Crystal Palace,2,1.8,40809
+Crystal Palace,9/16/2023,Premier League,Matchweek 5,A,Aston Villa,-2,-1.8,40809
+Liverpool,9/16/2023,Premier League,Matchweek 5,A,Wolves,2,1.9,31257
+Wolves,9/16/2023,Premier League,Matchweek 5,H,Liverpool,-2,-1.9,31257
+Fulham,9/16/2023,Premier League,Matchweek 5,H,Luton Town,1,-0.1,24467
+Luton Town,9/16/2023,Premier League,Matchweek 5,A,Fulham,-1,0.1,24467
+Arsenal,9/17/2023,Premier League,Matchweek 5,A,Everton,1,0.7,39217
+Everton,9/17/2023,Premier League,Matchweek 5,H,Arsenal,-1,-0.7,39217
+Bournemouth,9/17/2023,Premier League,Matchweek 5,H,Chelsea,0,-0.8,10421
+Chelsea,9/17/2023,Premier League,Matchweek 5,A,Bournemouth,0,0.8,10421
+Burnley,9/18/2023,Premier League,Matchweek 5,A,Nott'ham Forest,0,-0.2,28958
+Nott'ham Forest,9/18/2023,Premier League,Matchweek 5,H,Burnley,0,0.2,28958
+Newcastle Utd,9/19/2023,Champions Lg,Group stage,A,Milan,0,-1.6,65695
+Manchester City,9/19/2023,Champions Lg,Group stage,H,Red Star,2,3.3,50204
+Manchester Utd,9/20/2023,Champions Lg,Group stage,A,Bayern Munich,-1,-0.5,75000
+Arsenal,9/20/2023,Champions Lg,Group stage,H,PSV Eindhoven,4,1.8,58860
+West Ham,9/21/2023,Europa Lg,Group stage,H,TSC Bačka Top,2,1.7,41374
+Brighton,9/21/2023,Europa Lg,Group stage,H,AEK Athens,-1,1.4,30178
+Aston Villa,9/21/2023,Conf Lg,Group stage,A,Legia Warsaw,-1,-0.2,27801
+Liverpool,9/21/2023,Europa Lg,Group stage,A,LASK,2,1.9,18091
+Manchester City,9/23/2023,Premier League,Matchweek 6,H,Nott'ham Forest,2,0.3,53413
+Nott'ham Forest,9/23/2023,Premier League,Matchweek 6,A,Manchester City,-2,-0.3,53413
+Crystal Palace,9/23/2023,Premier League,Matchweek 6,H,Fulham,0,-0.3,25072
+Fulham,9/23/2023,Premier League,Matchweek 6,A,Crystal Palace,0,0.3,25072
+Burnley,9/23/2023,Premier League,Matchweek 6,H,Manchester Utd,-1,0.1,21593
+Manchester Utd,9/23/2023,Premier League,Matchweek 6,A,Burnley,1,-0.1,21593
+Brentford,9/23/2023,Premier League,Matchweek 6,H,Everton,-2,-0.9,16981
+Everton,9/23/2023,Premier League,Matchweek 6,A,Brentford,2,0.9,16981
+Luton Town,9/23/2023,Premier League,Matchweek 6,H,Wolves,0,1.5,10893
+Wolves,9/23/2023,Premier League,Matchweek 6,A,Luton Town,0,-1.5,10893
+Arsenal,9/24/2023,Premier League,Matchweek 6,H,Tottenham,0,0.4,60156
+Tottenham,9/24/2023,Premier League,Matchweek 6,A,Arsenal,0,-0.4,60156
+Liverpool,9/24/2023,Premier League,Matchweek 6,H,West Ham,2,1.9,50136
+West Ham,9/24/2023,Premier League,Matchweek 6,A,Liverpool,-2,-1.9,50136
+Aston Villa,9/24/2023,Premier League,Matchweek 6,A,Chelsea,1,-0.3,39700
+Chelsea,9/24/2023,Premier League,Matchweek 6,H,Aston Villa,-1,0.3,39700
+Bournemouth,9/24/2023,Premier League,Matchweek 6,A,Brighton,-2,-0.8,31617
+Brighton,9/24/2023,Premier League,Matchweek 6,H,Bournemouth,2,0.8,31617
+Newcastle Utd,9/24/2023,Premier League,Matchweek 6,A,Sheffield Utd,8,3,31127
+Sheffield Utd,9/24/2023,Premier League,Matchweek 6,H,Newcastle Utd,-8,-3,31127
+Crystal Palace,9/26/2023,EFL Cup,Third round,A,Manchester Utd,-3,0,72842
+Manchester Utd,9/26/2023,EFL Cup,Third round,H,Crystal Palace,3,0,72842
+Wolves,9/26/2023,EFL Cup,Third round,A,Ipswich Town,-1,0,20236
+Luton Town,9/26/2023,EFL Cup,Third round,A,Exeter City,-1,0,7360
+Burnley,9/26/2023,EFL Cup,Third round,A,Salford City,4,0,3305
+Manchester City,9/27/2023,EFL Cup,Third round,A,Newcastle Utd,-1,0,51692
+Newcastle Utd,9/27/2023,EFL Cup,Third round,H,Manchester City,1,0,51692
+Liverpool,9/27/2023,EFL Cup,Third round,H,Leicester City,2,0,49732
+Brighton,9/27/2023,EFL Cup,Third round,A,Chelsea,-1,0,37516
+Chelsea,9/27/2023,EFL Cup,Third round,H,Brighton,1,0,37516
+Aston Villa,9/27/2023,EFL Cup,Third round,H,Everton,-1,0,23851
+Everton,9/27/2023,EFL Cup,Third round,A,Aston Villa,1,0,23851
+Arsenal,9/27/2023,EFL Cup,Third round,A,Brentford,1,0,16688
+Brentford,9/27/2023,EFL Cup,Third round,H,Arsenal,-1,0,16688
+Fulham,9/27/2023,EFL Cup,Third round,H,Norwich City,1,0,12831
+Bournemouth,9/27/2023,EFL Cup,Third round,H,Stoke City,2,0,10282
+West Ham,9/27/2023,EFL Cup,Third round,A,Lincoln City,1,0,10168
+Crystal Palace,9/30/2023,Premier League,Matchweek 7,A,Manchester Utd,1,-0.4,73428
+Manchester Utd,9/30/2023,Premier League,Matchweek 7,H,Crystal Palace,-1,0.4,73428
+Sheffield Utd,9/30/2023,Premier League,Matchweek 7,A,West Ham,-2,-1,62459
+West Ham,9/30/2023,Premier League,Matchweek 7,H,Sheffield Utd,2,1,62459
+Liverpool,9/30/2023,Premier League,Matchweek 7,A,Tottenham,-1,-0.9,62001
+Tottenham,9/30/2023,Premier League,Matchweek 7,H,Liverpool,1,0.9,62001
+Burnley,9/30/2023,Premier League,Matchweek 7,A,Newcastle Utd,-2,-2.5,51687
+Newcastle Utd,9/30/2023,Premier League,Matchweek 7,H,Burnley,2,2.5,51687
+Aston Villa,9/30/2023,Premier League,Matchweek 7,H,Brighton,5,-0.1,40636
+Brighton,9/30/2023,Premier League,Matchweek 7,A,Aston Villa,-5,0.1,40636
+Everton,9/30/2023,Premier League,Matchweek 7,H,Luton Town,-1,2,39289
+Luton Town,9/30/2023,Premier League,Matchweek 7,A,Everton,1,-2,39289
+Manchester City,9/30/2023,Premier League,Matchweek 7,A,Wolves,-1,0.5,31415
+Wolves,9/30/2023,Premier League,Matchweek 7,H,Manchester City,1,-0.5,31415
+Arsenal,9/30/2023,Premier League,Matchweek 7,A,Bournemouth,4,2.8,11193
+Bournemouth,9/30/2023,Premier League,Matchweek 7,H,Arsenal,-4,-2.8,11193
+Brentford,10/1/2023,Premier League,Matchweek 7,A,Nott'ham Forest,0,1.1,29004
+Nott'ham Forest,10/1/2023,Premier League,Matchweek 7,H,Brentford,0,-1.1,29004
+Chelsea,10/2/2023,Premier League,Matchweek 7,A,Fulham,2,0.6,24445
+Fulham,10/2/2023,Premier League,Matchweek 7,H,Chelsea,-2,-0.6,24445
+Manchester Utd,10/3/2023,Champions Lg,Group stage,H,Galatasaray,-1,-0.3,73204
+Arsenal,10/3/2023,Champions Lg,Group stage,A,Lens,-1,0.8,37040
+Burnley,10/3/2023,Premier League,Matchweek 2,A,Luton Town,1,-0.2,10918
+Luton Town,10/3/2023,Premier League,Matchweek 2,H,Burnley,-1,0.2,10918
+Newcastle Utd,10/4/2023,Champions Lg,Group stage,H,Paris S-G,3,0,52009
+Manchester City,10/4/2023,Champions Lg,Group stage,A,RB Leipzig,2,1.7,45228
+Brighton,10/5/2023,Europa Lg,Group stage,A,Marseille,0,1.1,63465
+Liverpool,10/5/2023,Europa Lg,Group stage,H,Union SG,2,1.8,49513
+Aston Villa,10/5/2023,Conf Lg,Group stage,H,Zrinjski Mostar,1,1.2,37327
+West Ham,10/5/2023,Europa Lg,Group stage,A,Freiburg,1,-0.5,34100
+Brentford,10/7/2023,Premier League,Matchweek 8,A,Manchester Utd,-1,-0.5,73453
+Manchester Utd,10/7/2023,Premier League,Matchweek 8,H,Brentford,1,0.5,73453
+Bournemouth,10/7/2023,Premier League,Matchweek 8,A,Everton,-3,-1.7,38815
+Everton,10/7/2023,Premier League,Matchweek 8,H,Bournemouth,3,1.7,38815
+Crystal Palace,10/7/2023,Premier League,Matchweek 8,H,Nott'ham Forest,0,-0.2,25017
+Nott'ham Forest,10/7/2023,Premier League,Matchweek 8,A,Crystal Palace,0,0.2,25017
+Fulham,10/7/2023,Premier League,Matchweek 8,H,Sheffield Utd,2,1.6,24361
+Sheffield Utd,10/7/2023,Premier League,Matchweek 8,A,Fulham,-2,-1.6,24361
+Burnley,10/7/2023,Premier League,Matchweek 8,H,Chelsea,-3,-1.2,21654
+Chelsea,10/7/2023,Premier League,Matchweek 8,A,Burnley,3,1.2,21654
+Luton Town,10/7/2023,Premier League,Matchweek 8,H,Tottenham,-1,-1.1,10290
+Tottenham,10/7/2023,Premier League,Matchweek 8,A,Luton Town,1,1.1,10290
+Newcastle Utd,10/8/2023,Premier League,Matchweek 8,A,West Ham,0,0.8,62473
+West Ham,10/8/2023,Premier League,Matchweek 8,H,Newcastle Utd,0,-0.8,62473
+Arsenal,10/8/2023,Premier League,Matchweek 8,H,Manchester City,1,-0.1,60233
+Manchester City,10/8/2023,Premier League,Matchweek 8,A,Arsenal,-1,0.1,60233
+Brighton,10/8/2023,Premier League,Matchweek 8,H,Liverpool,0,0,31752
+Liverpool,10/8/2023,Premier League,Matchweek 8,A,Brighton,0,0,31752
+Aston Villa,10/8/2023,Premier League,Matchweek 8,A,Wolves,0,-0.1,31425
+Wolves,10/8/2023,Premier League,Matchweek 8,H,Aston Villa,0,0.1,31425
+Brighton,10/21/2023,Premier League,Matchweek 9,A,Manchester City,-1,0,53466
+Manchester City,10/21/2023,Premier League,Matchweek 9,H,Brighton,1,0,53466
+Crystal Palace,10/21/2023,Premier League,Matchweek 9,A,Newcastle Utd,-4,-1.2,52189
+Newcastle Utd,10/21/2023,Premier League,Matchweek 9,H,Crystal Palace,4,1.2,52189
+Everton,10/21/2023,Premier League,Matchweek 9,A,Liverpool,-2,-2.1,50201
+Liverpool,10/21/2023,Premier League,Matchweek 9,H,Everton,2,2.1,50201
+Arsenal,10/21/2023,Premier League,Matchweek 9,A,Chelsea,0,-0.3,39723
+Chelsea,10/21/2023,Premier League,Matchweek 9,H,Arsenal,0,0.3,39723
+Manchester Utd,10/21/2023,Premier League,Matchweek 9,A,Sheffield Utd,1,-0.3,31543
+Sheffield Utd,10/21/2023,Premier League,Matchweek 9,H,Manchester Utd,-1,0.3,31543
+Luton Town,10/21/2023,Premier League,Matchweek 9,A,Nott'ham Forest,0,-1.2,29361
+Nott'ham Forest,10/21/2023,Premier League,Matchweek 9,H,Luton Town,0,1.2,29361
+Brentford,10/21/2023,Premier League,Matchweek 9,H,Burnley,3,2,17029
+Burnley,10/21/2023,Premier League,Matchweek 9,A,Brentford,-3,-2,17029
+Bournemouth,10/21/2023,Premier League,Matchweek 9,H,Wolves,-1,-1.8,11175
+Wolves,10/21/2023,Premier League,Matchweek 9,A,Bournemouth,1,1.8,11175
+Aston Villa,10/22/2023,Premier League,Matchweek 9,H,West Ham,3,0.8,41734
+West Ham,10/22/2023,Premier League,Matchweek 9,A,Aston Villa,-3,-0.8,41734
+Fulham,10/23/2023,Premier League,Matchweek 9,A,Tottenham,-2,-0.5,61286
+Tottenham,10/23/2023,Premier League,Matchweek 9,H,Fulham,2,0.5,61286
+Manchester Utd,10/24/2023,Champions Lg,Group stage,H,FC Copenhagen,1,-0.2,73249
+Arsenal,10/24/2023,Champions Lg,Group stage,A,Sevilla,1,1.1,39595
+Newcastle Utd,10/25/2023,Champions Lg,Group stage,H,Dortmund,-1,-0.7,52024
+Manchester City,10/25/2023,Champions Lg,Group stage,A,Young Boys,2,3.8,31500
+Liverpool,10/26/2023,Europa Lg,Group stage,H,Toulouse,4,1.8,49338
+West Ham,10/26/2023,Europa Lg,Group stage,A,Olympiacos,-1,0.1,30623
+Brighton,10/26/2023,Europa Lg,Group stage,H,Ajax,2,1.1,30540
+Aston Villa,10/26/2023,Conf Lg,Group stage,A,AZ Alkmaar,3,0.7,16633
+Crystal Palace,10/27/2023,Premier League,Matchweek 10,H,Tottenham,-1,-0.5,25074
+Tottenham,10/27/2023,Premier League,Matchweek 10,A,Crystal Palace,1,0.5,25074
+Arsenal,10/28/2023,Premier League,Matchweek 10,H,Sheffield Utd,5,2.8,60153
+Sheffield Utd,10/28/2023,Premier League,Matchweek 10,A,Arsenal,-5,-2.8,60153
+Brentford,10/28/2023,Premier League,Matchweek 10,A,Chelsea,2,0.3,39575
+Chelsea,10/28/2023,Premier League,Matchweek 10,H,Brentford,-2,-0.3,39575
+Newcastle Utd,10/28/2023,Premier League,Matchweek 10,A,Wolves,0,1.3,31584
+Wolves,10/28/2023,Premier League,Matchweek 10,H,Newcastle Utd,0,-1.3,31584
+Bournemouth,10/28/2023,Premier League,Matchweek 10,H,Burnley,1,0.3,11152
+Burnley,10/28/2023,Premier League,Matchweek 10,A,Bournemouth,-1,-0.3,11152
+Manchester City,10/29/2023,Premier League,Matchweek 10,A,Manchester Utd,3,3.1,73502
+Manchester Utd,10/29/2023,Premier League,Matchweek 10,H,Manchester City,-3,-3.1,73502
+Everton,10/29/2023,Premier League,Matchweek 10,A,West Ham,1,0.1,62469
+West Ham,10/29/2023,Premier League,Matchweek 10,H,Everton,-1,-0.1,62469
+Liverpool,10/29/2023,Premier League,Matchweek 10,H,Nott'ham Forest,3,2.8,50143
+Nott'ham Forest,10/29/2023,Premier League,Matchweek 10,A,Liverpool,-3,-2.8,50143
+Aston Villa,10/29/2023,Premier League,Matchweek 10,H,Luton Town,2,1.8,41785
+Luton Town,10/29/2023,Premier League,Matchweek 10,A,Aston Villa,-2,-1.8,41785
+Brighton,10/29/2023,Premier League,Matchweek 10,H,Fulham,0,0.7,31550
+Fulham,10/29/2023,Premier League,Matchweek 10,A,Brighton,0,-0.7,31550
+Manchester Utd,11/1/2023,EFL Cup,Fourth round,H,Newcastle Utd,-3,0,72484
+Newcastle Utd,11/1/2023,EFL Cup,Fourth round,A,Manchester Utd,3,0,72484
+Arsenal,11/1/2023,EFL Cup,Fourth round,A,West Ham,-2,0,62154
+West Ham,11/1/2023,EFL Cup,Fourth round,H,Arsenal,2,0,62154
+Chelsea,11/1/2023,EFL Cup,Fourth round,H,Blackburn,2,0,39548
+Burnley,11/1/2023,EFL Cup,Fourth round,A,Everton,-3,0,38841
+Everton,11/1/2023,EFL Cup,Fourth round,H,Burnley,3,0,38841
+Fulham,11/1/2023,EFL Cup,Fourth round,A,Ipswich Town,2,0,28221
+Bournemouth,11/1/2023,EFL Cup,Fourth round,H,Liverpool,-1,0,11116
+Liverpool,11/1/2023,EFL Cup,Fourth round,A,Bournemouth,1,0,11116
+Bournemouth,11/4/2023,Premier League,Matchweek 11,A,Manchester City,-5,-1,53358
+Manchester City,11/4/2023,Premier League,Matchweek 11,H,Bournemouth,5,1,53358
+Arsenal,11/4/2023,Premier League,Matchweek 11,A,Newcastle Utd,-1,-0.4,52194
+Newcastle Utd,11/4/2023,Premier League,Matchweek 11,H,Arsenal,1,0.4,52194
+Brighton,11/4/2023,Premier League,Matchweek 11,A,Everton,0,-0.2,38683
+Everton,11/4/2023,Premier League,Matchweek 11,H,Brighton,0,0.2,38683
+Sheffield Utd,11/4/2023,Premier League,Matchweek 11,H,Wolves,1,-0.2,29454
+Wolves,11/4/2023,Premier League,Matchweek 11,A,Sheffield Utd,-1,0.2,29454
+Fulham,11/4/2023,Premier League,Matchweek 11,H,Manchester Utd,-1,0.3,24415
+Manchester Utd,11/4/2023,Premier League,Matchweek 11,A,Fulham,1,-0.3,24415
+Burnley,11/4/2023,Premier League,Matchweek 11,H,Crystal Palace,-2,-0.2,21578
+Crystal Palace,11/4/2023,Premier League,Matchweek 11,A,Burnley,2,0.2,21578
+Brentford,11/4/2023,Premier League,Matchweek 11,H,West Ham,1,-0.3,17103
+West Ham,11/4/2023,Premier League,Matchweek 11,A,Brentford,-1,0.3,17103
+Aston Villa,11/5/2023,Premier League,Matchweek 11,A,Nott'ham Forest,-2,0.8,29313
+Nott'ham Forest,11/5/2023,Premier League,Matchweek 11,H,Aston Villa,2,-0.8,29313
+Liverpool,11/5/2023,Premier League,Matchweek 11,A,Luton Town,0,1.8,11049
+Luton Town,11/5/2023,Premier League,Matchweek 11,H,Liverpool,0,-1.8,11049
+Chelsea,11/6/2023,Premier League,Matchweek 11,A,Tottenham,3,3.2,61726
+Tottenham,11/6/2023,Premier League,Matchweek 11,H,Chelsea,-3,-3.2,61726
+Newcastle Utd,11/7/2023,Champions Lg,Group stage,A,Dortmund,-2,-0.8,81365
+Manchester City,11/7/2023,Champions Lg,Group stage,H,Young Boys,3,3.4,51049
+Arsenal,11/8/2023,Champions Lg,Group stage,H,Sevilla,2,1.5,60024
+Manchester Utd,11/8/2023,Champions Lg,Group stage,A,FC Copenhagen,-1,0.8,36099
+West Ham,11/9/2023,Europa Lg,Group stage,H,Olympiacos,1,0.9,55811
+Brighton,11/9/2023,Europa Lg,Group stage,A,Ajax,2,0.3,52095
+Aston Villa,11/9/2023,Conf Lg,Group stage,H,AZ Alkmaar,1,0.7,35156
+Liverpool,11/9/2023,Europa Lg,Group stage,A,Toulouse,-1,0.1,32026
+Luton Town,11/11/2023,Premier League,Matchweek 12,A,Manchester Utd,-1,-1.8,73599
+Manchester Utd,11/11/2023,Premier League,Matchweek 12,H,Luton Town,1,1.8,73599
+Arsenal,11/11/2023,Premier League,Matchweek 12,H,Burnley,2,1.5,60232
+Burnley,11/11/2023,Premier League,Matchweek 12,A,Arsenal,-2,-1.5,60232
+Tottenham,11/11/2023,Premier League,Matchweek 12,A,Wolves,-1,-1.4,31642
+Wolves,11/11/2023,Premier League,Matchweek 12,H,Tottenham,1,1.4,31642
+Crystal Palace,11/11/2023,Premier League,Matchweek 12,H,Everton,-1,0.7,25103
+Everton,11/11/2023,Premier League,Matchweek 12,A,Crystal Palace,1,-0.7,25103
+Bournemouth,11/11/2023,Premier League,Matchweek 12,H,Newcastle Utd,2,1.9,11201
+Newcastle Utd,11/11/2023,Premier League,Matchweek 12,A,Bournemouth,-2,-1.9,11201
+Nott'ham Forest,11/12/2023,Premier League,Matchweek 12,A,West Ham,-1,-0.1,62470
+West Ham,11/12/2023,Premier League,Matchweek 12,H,Nott'ham Forest,1,0.1,62470
+Brentford,11/12/2023,Premier League,Matchweek 12,A,Liverpool,-3,-0.1,50151
+Liverpool,11/12/2023,Premier League,Matchweek 12,H,Brentford,3,0.1,50151
+Aston Villa,11/12/2023,Premier League,Matchweek 12,H,Fulham,2,2.1,41608
+Fulham,11/12/2023,Premier League,Matchweek 12,A,Aston Villa,-2,-2.1,41608
+Chelsea,11/12/2023,Premier League,Matchweek 12,H,Manchester City,0,0,39532
+Manchester City,11/12/2023,Premier League,Matchweek 12,A,Chelsea,0,0,39532
+Brighton,11/12/2023,Premier League,Matchweek 12,H,Sheffield Utd,0,0.4,31367
+Sheffield Utd,11/12/2023,Premier League,Matchweek 12,A,Brighton,0,-0.4,31367
+Liverpool,11/25/2023,Premier League,Matchweek 13,A,Manchester City,0,-0.7,53289
+Manchester City,11/25/2023,Premier League,Matchweek 13,H,Liverpool,0,0.7,53289
+Chelsea,11/25/2023,Premier League,Matchweek 13,A,Newcastle Utd,-3,-1.9,52227
+Newcastle Utd,11/25/2023,Premier League,Matchweek 13,H,Chelsea,3,1.9,52227
+Bournemouth,11/25/2023,Premier League,Matchweek 13,A,Sheffield Utd,2,2.1,30208
+Sheffield Utd,11/25/2023,Premier League,Matchweek 13,H,Bournemouth,-2,-2.1,30208
+Brighton,11/25/2023,Premier League,Matchweek 13,A,Nott'ham Forest,1,-0.6,29404
+Nott'ham Forest,11/25/2023,Premier League,Matchweek 13,H,Brighton,-1,0.6,29404
+Burnley,11/25/2023,Premier League,Matchweek 13,H,West Ham,-1,0.4,21319
+West Ham,11/25/2023,Premier League,Matchweek 13,A,Burnley,1,-0.4,21319
+Arsenal,11/25/2023,Premier League,Matchweek 13,A,Brentford,1,0.5,17201
+Brentford,11/25/2023,Premier League,Matchweek 13,H,Arsenal,-1,-0.5,17201
+Crystal Palace,11/25/2023,Premier League,Matchweek 13,A,Luton Town,-1,0.7,11029
+Luton Town,11/25/2023,Premier League,Matchweek 13,H,Crystal Palace,1,-0.7,11029
+Aston Villa,11/26/2023,Premier League,Matchweek 13,A,Tottenham,1,-0.6,61679
+Tottenham,11/26/2023,Premier League,Matchweek 13,H,Aston Villa,-1,0.6,61679
+Everton,11/26/2023,Premier League,Matchweek 13,H,Manchester Utd,-3,0.2,39257
+Manchester Utd,11/26/2023,Premier League,Matchweek 13,A,Everton,3,-0.2,39257
+Fulham,11/27/2023,Premier League,Matchweek 13,H,Wolves,1,1.5,24366
+Wolves,11/27/2023,Premier League,Matchweek 13,A,Fulham,-1,-1.5,24366
+Manchester City,11/28/2023,Champions Lg,Group stage,H,RB Leipzig,1,1.3,51402
+Newcastle Utd,11/28/2023,Champions Lg,Group stage,A,Paris S-G,0,-3.1,46435
+Arsenal,11/29/2023,Champions Lg,Group stage,H,Lens,6,2.2,59987
+Manchester Utd,11/29/2023,Champions Lg,Group stage,A,Galatasaray,0,0.1,51733
+Liverpool,11/30/2023,Europa Lg,Group stage,H,LASK,4,2.6,49666
+Aston Villa,11/30/2023,Conf Lg,Group stage,H,Legia Warsaw,1,1.2,37866
+Brighton,11/30/2023,Europa Lg,Group stage,A,AEK Athens,1,-0.3,30520
+West Ham,11/30/2023,Europa Lg,Group stage,A,TSC Bačka Top,1,-0.1,4256
+Arsenal,12/2/2023,Premier League,Matchweek 14,H,Wolves,1,2.1,60262
+Wolves,12/2/2023,Premier League,Matchweek 14,A,Arsenal,-1,-2.1,60262
+Manchester Utd,12/2/2023,Premier League,Matchweek 14,A,Newcastle Utd,-1,-1.9,52214
+Newcastle Utd,12/2/2023,Premier League,Matchweek 14,H,Manchester Utd,1,1.9,52214
+Everton,12/2/2023,Premier League,Matchweek 14,A,Nott'ham Forest,1,0,29404
+Nott'ham Forest,12/2/2023,Premier League,Matchweek 14,H,Everton,-1,0,29404
+Burnley,12/2/2023,Premier League,Matchweek 14,H,Sheffield Utd,5,1.4,21478
+Sheffield Utd,12/2/2023,Premier League,Matchweek 14,A,Burnley,-5,-1.4,21478
+Brentford,12/2/2023,Premier League,Matchweek 14,H,Luton Town,2,2.9,17075
+Luton Town,12/2/2023,Premier League,Matchweek 14,A,Brentford,-2,-2.9,17075
+Crystal Palace,12/3/2023,Premier League,Matchweek 14,A,West Ham,0,-0.2,62414
+West Ham,12/3/2023,Premier League,Matchweek 14,H,Crystal Palace,0,0.2,62414
+Manchester City,12/3/2023,Premier League,Matchweek 14,H,Tottenham,0,2.1,53473
+Tottenham,12/3/2023,Premier League,Matchweek 14,A,Manchester City,0,-2.1,53473
+Fulham,12/3/2023,Premier League,Matchweek 14,A,Liverpool,-1,-0.9,50124
+Liverpool,12/3/2023,Premier League,Matchweek 14,H,Fulham,1,0.9,50124
+Brighton,12/3/2023,Premier League,Matchweek 14,A,Chelsea,-1,-1,39647
+Chelsea,12/3/2023,Premier League,Matchweek 14,H,Brighton,1,1,39647
+Aston Villa,12/3/2023,Premier League,Matchweek 14,A,Bournemouth,0,-1.3,11191
+Bournemouth,12/3/2023,Premier League,Matchweek 14,H,Aston Villa,0,1.3,11191
+Burnley,12/5/2023,Premier League,Matchweek 15,A,Wolves,-1,0.1,30439
+Wolves,12/5/2023,Premier League,Matchweek 15,H,Burnley,1,-0.1,30439
+Arsenal,12/5/2023,Premier League,Matchweek 15,A,Luton Town,1,1.7,11031
+Luton Town,12/5/2023,Premier League,Matchweek 15,H,Arsenal,-1,-1.7,11031
+Chelsea,12/6/2023,Premier League,Matchweek 15,A,Manchester Utd,-1,-2.6,73607
+Manchester Utd,12/6/2023,Premier League,Matchweek 15,H,Chelsea,1,2.6,73607
+Aston Villa,12/6/2023,Premier League,Matchweek 15,H,Manchester City,1,1.7,41421
+Manchester City,12/6/2023,Premier League,Matchweek 15,A,Aston Villa,-1,-1.7,41421
+Brentford,12/6/2023,Premier League,Matchweek 15,A,Brighton,-1,0,31571
+Brighton,12/6/2023,Premier League,Matchweek 15,H,Brentford,1,0,31571
+Liverpool,12/6/2023,Premier League,Matchweek 15,A,Sheffield Utd,2,0.7,31406
+Sheffield Utd,12/6/2023,Premier League,Matchweek 15,H,Liverpool,-2,-0.7,31406
+Bournemouth,12/6/2023,Premier League,Matchweek 15,A,Crystal Palace,2,0.8,25078
+Crystal Palace,12/6/2023,Premier League,Matchweek 15,H,Bournemouth,-2,-0.8,25078
+Fulham,12/6/2023,Premier League,Matchweek 15,H,Nott'ham Forest,5,2.2,24105
+Nott'ham Forest,12/6/2023,Premier League,Matchweek 15,A,Fulham,-5,-2.2,24105
+Tottenham,12/7/2023,Premier League,Matchweek 15,H,West Ham,-1,-0.4,61171
+West Ham,12/7/2023,Premier League,Matchweek 15,A,Tottenham,1,0.4,61171
+Everton,12/7/2023,Premier League,Matchweek 15,H,Newcastle Utd,3,1.8,38198
+Newcastle Utd,12/7/2023,Premier League,Matchweek 15,A,Everton,-3,-1.8,38198
+Bournemouth,12/9/2023,Premier League,Matchweek 16,A,Manchester Utd,3,0.4,73427
+Manchester Utd,12/9/2023,Premier League,Matchweek 16,H,Bournemouth,-3,-0.4,73427
+Arsenal,12/9/2023,Premier League,Matchweek 16,A,Aston Villa,-1,0.8,42000
+Aston Villa,12/9/2023,Premier League,Matchweek 16,H,Arsenal,1,-0.8,42000
+Nott'ham Forest,12/9/2023,Premier League,Matchweek 16,A,Wolves,0,0.1,31543
+Wolves,12/9/2023,Premier League,Matchweek 16,H,Nott'ham Forest,0,-0.1,31543
+Brighton,12/9/2023,Premier League,Matchweek 16,H,Burnley,0,2,31511
+Burnley,12/9/2023,Premier League,Matchweek 16,A,Brighton,0,-2,31511
+Brentford,12/9/2023,Premier League,Matchweek 16,A,Sheffield Utd,-1,-0.2,28509
+Sheffield Utd,12/9/2023,Premier League,Matchweek 16,H,Brentford,1,0.2,28509
+Crystal Palace,12/9/2023,Premier League,Matchweek 16,H,Liverpool,-1,0.5,25103
+Liverpool,12/9/2023,Premier League,Matchweek 16,A,Crystal Palace,1,-0.5,25103
+Newcastle Utd,12/10/2023,Premier League,Matchweek 16,A,Tottenham,-3,-2.1,61171
+Tottenham,12/10/2023,Premier League,Matchweek 16,H,Newcastle Utd,3,2.1,61171
+Chelsea,12/10/2023,Premier League,Matchweek 16,A,Everton,-2,-0.3,39280
+Everton,12/10/2023,Premier League,Matchweek 16,H,Chelsea,2,0.3,39280
+Fulham,12/10/2023,Premier League,Matchweek 16,H,West Ham,5,1,23988
+West Ham,12/10/2023,Premier League,Matchweek 16,A,Fulham,-5,-1,23988
+Luton Town,12/10/2023,Premier League,Matchweek 16,H,Manchester City,-1,-1.3,11047
+Manchester City,12/10/2023,Premier League,Matchweek 16,A,Luton Town,1,1.3,11047
+Manchester Utd,12/12/2023,Champions Lg,Group stage,H,Bayern Munich,-1,-0.9,73073
+Arsenal,12/12/2023,Champions Lg,Group stage,A,PSV Eindhoven,0,-0.3,35000
+Newcastle Utd,12/13/2023,Champions Lg,Group stage,H,Milan,-1,-0.1,52037
+Manchester City,12/13/2023,Champions Lg,Group stage,A,Red Star,1,0.3,49443
+West Ham,12/14/2023,Europa Lg,Group stage,H,Freiburg,2,1.2,48876
+Brighton,12/14/2023,Europa Lg,Group stage,H,Marseille,1,0.8,30214
+Liverpool,12/14/2023,Europa Lg,Group stage,A,Union SG,-1,-2,16959
+Aston Villa,12/14/2023,Conf Lg,Group stage,A,Zrinjski Mostar,0,-0.1,6610
+Nott'ham Forest,12/15/2023,Premier League,Matchweek 17,H,Tottenham,-2,-0.2,29296
+Tottenham,12/15/2023,Premier League,Matchweek 17,A,Nott'ham Forest,2,0.2,29296
+Crystal Palace,12/16/2023,Premier League,Matchweek 17,A,Manchester City,0,0.2,53248
+Manchester City,12/16/2023,Premier League,Matchweek 17,H,Crystal Palace,0,-0.2,53248
+Fulham,12/16/2023,Premier League,Matchweek 17,A,Newcastle Utd,-3,-3.2,52055
+Newcastle Utd,12/16/2023,Premier League,Matchweek 17,H,Fulham,3,3.2,52055
+Chelsea,12/16/2023,Premier League,Matchweek 17,H,Sheffield Utd,2,2.7,39599
+Sheffield Utd,12/16/2023,Premier League,Matchweek 17,A,Chelsea,-2,-2.7,39599
+Burnley,12/16/2023,Premier League,Matchweek 17,H,Everton,-2,-0.7,21413
+Everton,12/16/2023,Premier League,Matchweek 17,A,Burnley,2,0.7,21413
+West Ham,12/17/2023,Premier League,Matchweek 17,H,Wolves,3,0.4,62455
+Wolves,12/17/2023,Premier League,Matchweek 17,A,West Ham,-3,-0.4,62455
+Arsenal,12/17/2023,Premier League,Matchweek 17,H,Brighton,2,1.6,60257
+Brighton,12/17/2023,Premier League,Matchweek 17,A,Arsenal,-2,-1.6,60257
+Liverpool,12/17/2023,Premier League,Matchweek 17,H,Manchester Utd,0,1.5,57158
+Manchester Utd,12/17/2023,Premier League,Matchweek 17,A,Liverpool,0,-1.5,57158
+Aston Villa,12/17/2023,Premier League,Matchweek 17,A,Brentford,1,0.9,17034
+Brentford,12/17/2023,Premier League,Matchweek 17,H,Aston Villa,-1,-0.9,17034
+Everton,12/19/2023,EFL Cup,Quarter-finals,H,Fulham,0,0,38715
+Fulham,12/19/2023,EFL Cup,Quarter-finals,A,Everton,0,0,38715
+Chelsea,12/19/2023,EFL Cup,Quarter-finals,H,Newcastle Utd,0,0,38058
+Newcastle Utd,12/19/2023,EFL Cup,Quarter-finals,A,Chelsea,0,0,38058
+Liverpool,12/20/2023,EFL Cup,Quarter-finals,H,West Ham,4,0,57332
+West Ham,12/20/2023,EFL Cup,Quarter-finals,A,Liverpool,-4,0,57332
+Brighton,12/21/2023,Premier League,Matchweek 18,A,Crystal Palace,0,-0.1,24171
+Crystal Palace,12/21/2023,Premier League,Matchweek 18,H,Brighton,0,0.1,24171
+Aston Villa,12/22/2023,Premier League,Matchweek 18,H,Sheffield Utd,0,0.3,41651
+Sheffield Utd,12/22/2023,Premier League,Matchweek 18,A,Aston Villa,0,-0.3,41651
+Manchester Utd,12/23/2023,Premier League,Matchweek 18,A,West Ham,-2,-0.2,64472
+West Ham,12/23/2023,Premier League,Matchweek 18,H,Manchester Utd,2,0.2,64472
+Everton,12/23/2023,Premier League,Matchweek 18,A,Tottenham,-1,0.3,61808
+Tottenham,12/23/2023,Premier League,Matchweek 18,H,Everton,1,-0.3,61808
+Arsenal,12/23/2023,Premier League,Matchweek 18,A,Liverpool,0,-0.3,57548
+Liverpool,12/23/2023,Premier League,Matchweek 18,H,Arsenal,0,0.3,57548
+Bournemouth,12/23/2023,Premier League,Matchweek 18,A,Nott'ham Forest,1,0.6,29188
+Nott'ham Forest,12/23/2023,Premier League,Matchweek 18,H,Bournemouth,-1,-0.6,29188
+Burnley,12/23/2023,Premier League,Matchweek 18,A,Fulham,2,-0.9,23598
+Fulham,12/23/2023,Premier League,Matchweek 18,H,Burnley,-2,0.9,23598
+Luton Town,12/23/2023,Premier League,Matchweek 18,H,Newcastle Utd,1,0,11042
+Newcastle Utd,12/23/2023,Premier League,Matchweek 18,A,Luton Town,-1,0,11042
+Chelsea,12/24/2023,Premier League,Matchweek 18,A,Wolves,-1,0.7,31641
+Wolves,12/24/2023,Premier League,Matchweek 18,H,Chelsea,1,-0.7,31641
+Aston Villa,12/26/2023,Premier League,Matchweek 19,A,Manchester Utd,-1,0.6,73574
+Manchester Utd,12/26/2023,Premier League,Matchweek 19,H,Aston Villa,1,-0.6,73574
+Newcastle Utd,12/26/2023,Premier League,Matchweek 19,H,Nott'ham Forest,-2,-1.1,52207
+Nott'ham Forest,12/26/2023,Premier League,Matchweek 19,A,Newcastle Utd,2,1.1,52207
+Luton Town,12/26/2023,Premier League,Matchweek 19,A,Sheffield Utd,1,-1.8,31041
+Sheffield Utd,12/26/2023,Premier League,Matchweek 19,H,Luton Town,-1,1.8,31041
+Burnley,12/26/2023,Premier League,Matchweek 19,H,Liverpool,-2,-1,21624
+Liverpool,12/26/2023,Premier League,Matchweek 19,A,Burnley,2,1,21624
+Bournemouth,12/26/2023,Premier League,Matchweek 19,H,Fulham,3,1.5,11099
+Fulham,12/26/2023,Premier League,Matchweek 19,A,Bournemouth,-3,-1.5,11099
+Chelsea,12/27/2023,Premier League,Matchweek 19,H,Crystal Palace,1,1.5,39618
+Crystal Palace,12/27/2023,Premier League,Matchweek 19,A,Chelsea,-1,-1.5,39618
+Everton,12/27/2023,Premier League,Matchweek 19,H,Manchester City,-2,-1.4,39327
+Manchester City,12/27/2023,Premier League,Matchweek 19,A,Everton,2,1.4,39327
+Brentford,12/27/2023,Premier League,Matchweek 19,H,Wolves,-3,-0.2,17109
+Wolves,12/27/2023,Premier League,Matchweek 19,A,Brentford,3,0.2,17109
+Arsenal,12/28/2023,Premier League,Matchweek 19,H,West Ham,-2,1.3,60261
+West Ham,12/28/2023,Premier League,Matchweek 19,A,Arsenal,2,-1.3,60261
+Brighton,12/28/2023,Premier League,Matchweek 19,H,Tottenham,2,0.9,31675
+Tottenham,12/28/2023,Premier League,Matchweek 19,A,Brighton,-2,-0.9,31675
+Manchester City,12/30/2023,Premier League,Matchweek 20,H,Sheffield Utd,2,1.9,53108
+Sheffield Utd,12/30/2023,Premier League,Matchweek 20,A,Manchester City,-2,-1.9,53108
+Aston Villa,12/30/2023,Premier League,Matchweek 20,H,Burnley,1,2,41613
+Burnley,12/30/2023,Premier League,Matchweek 20,A,Aston Villa,-1,-2,41613
+Everton,12/30/2023,Premier League,Matchweek 20,A,Wolves,-3,-1.5,31639
+Wolves,12/30/2023,Premier League,Matchweek 20,H,Everton,3,1.5,31639
+Manchester Utd,12/30/2023,Premier League,Matchweek 20,A,Nott'ham Forest,-1,0.1,29529
+Nott'ham Forest,12/30/2023,Premier League,Matchweek 20,H,Manchester Utd,1,-0.1,29529
+Brentford,12/30/2023,Premier League,Matchweek 20,A,Crystal Palace,-2,0.4,25472
+Crystal Palace,12/30/2023,Premier League,Matchweek 20,H,Brentford,2,-0.4,25472
+Chelsea,12/30/2023,Premier League,Matchweek 20,A,Luton Town,1,-0.8,11041
+Luton Town,12/30/2023,Premier League,Matchweek 20,H,Chelsea,-1,0.8,11041
+Bournemouth,12/31/2023,Premier League,Matchweek 20,A,Tottenham,-2,-0.6,61780
+Tottenham,12/31/2023,Premier League,Matchweek 20,H,Bournemouth,2,0.6,61780
+Arsenal,12/31/2023,Premier League,Matchweek 20,A,Fulham,-1,0.4,24444
+Fulham,12/31/2023,Premier League,Matchweek 20,H,Arsenal,1,-0.4,24444
+Liverpool,1/1/2024,Premier League,Matchweek 20,H,Newcastle Utd,2,6.4,57471
+Newcastle Utd,1/1/2024,Premier League,Matchweek 20,A,Liverpool,-2,-6.4,57471
+Brighton,1/2/2024,Premier League,Matchweek 20,A,West Ham,0,1.6,62462
+West Ham,1/2/2024,Premier League,Matchweek 20,H,Brighton,0,-1.6,62462
+Crystal Palace,1/4/2024,FA Cup,Third round proper,H,Everton,0,0,24489
+Everton,1/4/2024,FA Cup,Third round proper,A,Crystal Palace,0,0,24489
+Burnley,1/5/2024,FA Cup,Third round proper,A,Tottenham,-1,0,60982
+Tottenham,1/5/2024,FA Cup,Third round proper,H,Burnley,1,0,60982
+Brentford,1/5/2024,FA Cup,Third round proper,H,Wolves,0,0,16818
+Wolves,1/5/2024,FA Cup,Third round proper,A,Brentford,0,0,16818
+Fulham,1/5/2024,FA Cup,Third round proper,H,Rotherham Utd,1,0,15083
+Newcastle Utd,1/6/2024,FA Cup,Third round proper,A,Sunderland,3,0,44814
+Chelsea,1/6/2024,FA Cup,Third round proper,H,Preston,4,0,39705
+Aston Villa,1/6/2024,FA Cup,Third round proper,A,Middlesbrough,1,0,25022
+Brighton,1/6/2024,FA Cup,Third round proper,A,Stoke City,2,0,17032
+Bournemouth,1/6/2024,FA Cup,Third round proper,A,QPR,1,0,10725
+Sheffield Utd,1/6/2024,FA Cup,Third round proper,A,Gillingham,4,0,8809
+West Ham,1/7/2024,FA Cup,Third round proper,H,Bristol City,0,0,62447
+Arsenal,1/7/2024,FA Cup,Third round proper,H,Liverpool,-2,0,58538
+Liverpool,1/7/2024,FA Cup,Third round proper,A,Arsenal,2,0,58538
+Manchester City,1/7/2024,FA Cup,Third round proper,H,Huddersfield,5,0,51939
+Nott'ham Forest,1/7/2024,FA Cup,Third round proper,H,Blackpool,0,0,27909
+Luton Town,1/7/2024,FA Cup,Third round proper,H,Bolton,0,0,10739
+Manchester Utd,1/8/2024,FA Cup,Third round proper,A,Wigan Athletic,2,0,22870
+Chelsea,1/9/2024,EFL Cup,Semi-finals,A,Middlesbrough,-1,0,32097
+Fulham,1/10/2024,EFL Cup,Semi-finals,A,Liverpool,-1,0,56724
+Liverpool,1/10/2024,EFL Cup,Semi-finals,H,Fulham,1,0,56724
+Burnley,1/12/2024,Premier League,Matchweek 21,H,Luton Town,0,0.2,20155
+Luton Town,1/12/2024,Premier League,Matchweek 21,A,Burnley,0,-0.2,20155
+Manchester City,1/13/2024,Premier League,Matchweek 21,A,Newcastle Utd,1,1.7,52190
+Newcastle Utd,1/13/2024,Premier League,Matchweek 21,H,Manchester City,-1,-1.7,52190
+Chelsea,1/13/2024,Premier League,Matchweek 21,H,Fulham,1,1.4,39643
+Fulham,1/13/2024,Premier League,Matchweek 21,A,Chelsea,-1,-1.4,39643
+Manchester Utd,1/14/2024,Premier League,Matchweek 21,H,Tottenham,0,-0.4,73489
+Tottenham,1/14/2024,Premier League,Matchweek 21,A,Manchester Utd,0,0.4,73489
+Aston Villa,1/14/2024,Premier League,Matchweek 21,A,Everton,0,0.1,39284
+Everton,1/14/2024,Premier League,Matchweek 21,H,Aston Villa,0,-0.1,39284
+West Ham,1/16/2024,FA Cup,Third round proper,A,Bristol City,-1,0,25616
+Brentford,1/16/2024,FA Cup,Third round proper,A,Wolves,-1,0,24692
+Wolves,1/16/2024,FA Cup,Third round proper,H,Brentford,1,0,24692
+Luton Town,1/16/2024,FA Cup,Third round proper,A,Bolton,1,0,10878
+Crystal Palace,1/17/2024,FA Cup,Third round proper,A,Everton,-1,0,37796
+Everton,1/17/2024,FA Cup,Third round proper,H,Crystal Palace,1,0,37796
+Nott'ham Forest,1/17/2024,FA Cup,Third round proper,A,Blackpool,1,0,8098
+Arsenal,1/20/2024,Premier League,Matchweek 21,H,Crystal Palace,5,3,60284
+Crystal Palace,1/20/2024,Premier League,Matchweek 21,A,Arsenal,-5,-3,60284
+Brentford,1/20/2024,Premier League,Matchweek 21,H,Nott'ham Forest,1,0,17077
+Nott'ham Forest,1/20/2024,Premier League,Matchweek 21,A,Brentford,-1,0,17077
+Sheffield Utd,1/21/2024,Premier League,Matchweek 21,H,West Ham,0,0.2,29164
+West Ham,1/21/2024,Premier League,Matchweek 21,A,Sheffield Utd,0,-0.2,29164
+Bournemouth,1/21/2024,Premier League,Matchweek 21,H,Liverpool,-4,-0.1,11228
+Liverpool,1/21/2024,Premier League,Matchweek 21,A,Bournemouth,4,0.1,11228
+Brighton,1/22/2024,Premier League,Matchweek 21,H,Wolves,0,-0.1,41505
+Wolves,1/22/2024,Premier League,Matchweek 21,A,Brighton,0,0.1,41505
+Chelsea,1/23/2024,EFL Cup,Semi-finals,H,Middlesbrough,5,0,37754
+Fulham,1/24/2024,EFL Cup,Semi-finals,H,Liverpool,0,0,24320
+Liverpool,1/24/2024,EFL Cup,Semi-finals,A,Fulham,0,0,24320
+Bournemouth,1/25/2024,FA Cup,Fourth round proper,H,Swansea City,5,0,10166
+Manchester City,1/26/2024,FA Cup,Fourth round proper,A,Tottenham,1,0,60872
+Tottenham,1/26/2024,FA Cup,Fourth round proper,H,Manchester City,-1,0,60872
+Aston Villa,1/26/2024,FA Cup,Fourth round proper,A,Chelsea,0,0,39325
+Chelsea,1/26/2024,FA Cup,Fourth round proper,H,Aston Villa,0,0,39325
+Nott'ham Forest,1/26/2024,FA Cup,Fourth round proper,A,Bristol City,0,0,25787
+Everton,1/27/2024,FA Cup,Fourth round proper,H,Luton Town,-1,0,37713
+Luton Town,1/27/2024,FA Cup,Fourth round proper,A,Everton,1,0,37713
+Fulham,1/27/2024,FA Cup,Fourth round proper,H,Newcastle Utd,-2,0,18960
+Newcastle Utd,1/27/2024,FA Cup,Fourth round proper,A,Fulham,2,0,18960
+Brighton,1/27/2024,FA Cup,Fourth round proper,A,Sheffield Utd,3,0,18391
+Sheffield Utd,1/27/2024,FA Cup,Fourth round proper,H,Brighton,-3,0,18391
+Liverpool,1/28/2024,FA Cup,Fourth round proper,H,Norwich City,3,0,57334
+Wolves,1/28/2024,FA Cup,Fourth round proper,A,West Brom,2,0,25013
+Manchester Utd,1/28/2024,FA Cup,Fourth round proper,A,Newport County,2,0,9086
+Aston Villa,1/30/2024,Premier League,Matchweek 22,H,Newcastle Utd,-2,-1.2,42191
+Newcastle Utd,1/30/2024,Premier League,Matchweek 22,A,Aston Villa,2,1.2,42191
+Arsenal,1/30/2024,Premier League,Matchweek 22,A,Nott'ham Forest,1,0.7,29387
+Nott'ham Forest,1/30/2024,Premier League,Matchweek 22,H,Arsenal,-1,-0.7,29387
+Crystal Palace,1/30/2024,Premier League,Matchweek 22,H,Sheffield Utd,1,0.3,24781
+Sheffield Utd,1/30/2024,Premier League,Matchweek 22,A,Crystal Palace,-1,-0.3,24781
+Everton,1/30/2024,Premier League,Matchweek 22,A,Fulham,0,0.3,24376
+Fulham,1/30/2024,Premier League,Matchweek 22,H,Everton,0,-0.3,24376
+Brighton,1/30/2024,Premier League,Matchweek 22,A,Luton Town,-4,-2.2,10994
+Luton Town,1/30/2024,Premier League,Matchweek 22,H,Brighton,4,2.2,10994
+Brentford,1/31/2024,Premier League,Matchweek 22,A,Tottenham,-1,-1.3,61210
+Tottenham,1/31/2024,Premier League,Matchweek 22,H,Brentford,1,1.3,61210
+Chelsea,1/31/2024,Premier League,Matchweek 22,A,Liverpool,-3,-2.3,57524
+Liverpool,1/31/2024,Premier League,Matchweek 22,H,Chelsea,3,2.3,57524
+Burnley,1/31/2024,Premier League,Matchweek 22,A,Manchester City,-2,-0.3,52143
+Manchester City,1/31/2024,Premier League,Matchweek 22,H,Burnley,2,0.3,52143
+Bournemouth,2/1/2024,Premier League,Matchweek 22,A,West Ham,0,-0.2,62478
+West Ham,2/1/2024,Premier League,Matchweek 22,H,Bournemouth,0,0.2,62478
+Manchester Utd,2/1/2024,Premier League,Matchweek 22,A,Wolves,1,1.2,31641
+Wolves,2/1/2024,Premier League,Matchweek 22,H,Manchester Utd,-1,-1.2,31641
+Luton Town,2/3/2024,Premier League,Matchweek 23,A,Newcastle Utd,0,0.1,52211
+Newcastle Utd,2/3/2024,Premier League,Matchweek 23,H,Luton Town,0,-0.1,52211
+Everton,2/3/2024,Premier League,Matchweek 23,H,Tottenham,0,1.6,39321
+Tottenham,2/3/2024,Premier League,Matchweek 23,A,Everton,0,-1.6,39321
+Brighton,2/3/2024,Premier League,Matchweek 23,H,Crystal Palace,3,1.1,31345
+Crystal Palace,2/3/2024,Premier League,Matchweek 23,A,Brighton,-3,-1.1,31345
+Aston Villa,2/3/2024,Premier League,Matchweek 23,A,Sheffield Utd,5,0.8,30187
+Sheffield Utd,2/3/2024,Premier League,Matchweek 23,H,Aston Villa,-5,-0.8,30187
+Burnley,2/3/2024,Premier League,Matchweek 23,H,Fulham,0,0.3,20203
+Fulham,2/3/2024,Premier League,Matchweek 23,A,Burnley,0,-0.3,20203
+Manchester Utd,2/4/2024,Premier League,Matchweek 23,H,West Ham,3,-0.7,73612
+West Ham,2/4/2024,Premier League,Matchweek 23,A,Manchester Utd,-3,0.7,73612
+Arsenal,2/4/2024,Premier League,Matchweek 23,H,Liverpool,2,3.1,60374
+Liverpool,2/4/2024,Premier League,Matchweek 23,A,Arsenal,-2,-3.1,60374
+Chelsea,2/4/2024,Premier League,Matchweek 23,H,Wolves,-2,-0.3,39628
+Wolves,2/4/2024,Premier League,Matchweek 23,A,Chelsea,2,0.3,39628
+Bournemouth,2/4/2024,Premier League,Matchweek 23,H,Nott'ham Forest,0,0.8,11200
+Nott'ham Forest,2/4/2024,Premier League,Matchweek 23,A,Bournemouth,0,-0.8,11200
+Brentford,2/5/2024,Premier League,Matchweek 23,H,Manchester City,-2,-1.1,17096
+Manchester City,2/5/2024,Premier League,Matchweek 23,A,Brentford,2,1.1,17096
+Aston Villa,2/7/2024,FA Cup,Fourth round proper,H,Chelsea,-2,0,40013
+Chelsea,2/7/2024,FA Cup,Fourth round proper,A,Aston Villa,2,0,40013
+Nott'ham Forest,2/7/2024,FA Cup,Fourth round proper,H,Bristol City,0,0,27754
+Brighton,2/10/2024,Premier League,Matchweek 24,A,Tottenham,-1,-0.4,61445
+Tottenham,2/10/2024,Premier League,Matchweek 24,H,Brighton,1,0.4,61445
+Burnley,2/10/2024,Premier League,Matchweek 24,A,Liverpool,-2,-1.5,59896
+Liverpool,2/10/2024,Premier League,Matchweek 24,H,Burnley,2,1.5,59896
+Everton,2/10/2024,Premier League,Matchweek 24,A,Manchester City,-2,-1.3,52187
+Manchester City,2/10/2024,Premier League,Matchweek 24,H,Everton,2,1.3,52187
+Brentford,2/10/2024,Premier League,Matchweek 24,A,Wolves,2,0.9,30731
+Wolves,2/10/2024,Premier League,Matchweek 24,H,Brentford,-2,-0.9,30731
+Newcastle Utd,2/10/2024,Premier League,Matchweek 24,A,Nott'ham Forest,1,-1,29451
+Nott'ham Forest,2/10/2024,Premier League,Matchweek 24,H,Newcastle Utd,-1,1,29451
+Bournemouth,2/10/2024,Premier League,Matchweek 24,A,Fulham,-2,0.2,24271
+Fulham,2/10/2024,Premier League,Matchweek 24,H,Bournemouth,2,-0.2,24271
+Luton Town,2/10/2024,Premier League,Matchweek 24,H,Sheffield Utd,-2,0.1,11138
+Sheffield Utd,2/10/2024,Premier League,Matchweek 24,A,Luton Town,2,-0.1,11138
+Arsenal,2/11/2024,Premier League,Matchweek 24,A,West Ham,6,3.4,62475
+West Ham,2/11/2024,Premier League,Matchweek 24,H,Arsenal,-6,-3.4,62475
+Aston Villa,2/11/2024,Premier League,Matchweek 24,H,Manchester Utd,-1,0.6,42185
+Manchester Utd,2/11/2024,Premier League,Matchweek 24,A,Aston Villa,1,-0.6,42185
+Chelsea,2/12/2024,Premier League,Matchweek 24,A,Crystal Palace,2,0.8,25110
+Crystal Palace,2/12/2024,Premier League,Matchweek 24,H,Chelsea,-2,-0.8,25110
+Manchester City,2/13/2024,Champions Lg,Round of 16,A,FC Copenhagen,2,3,35853
+Tottenham,2/17/2024,Premier League,Matchweek 25,H,Wolves,-1,-0.2,61532
+Wolves,2/17/2024,Premier League,Matchweek 25,A,Tottenham,1,0.2,61532
+Bournemouth,2/17/2024,Premier League,Matchweek 25,A,Newcastle Utd,0,0,52224
+Newcastle Utd,2/17/2024,Premier League,Matchweek 25,H,Bournemouth,0,0,52224
+Chelsea,2/17/2024,Premier League,Matchweek 25,A,Manchester City,0,-1.2,52178
+Manchester City,2/17/2024,Premier League,Matchweek 25,H,Chelsea,0,1.2,52178
+Nott'ham Forest,2/17/2024,Premier League,Matchweek 25,H,West Ham,2,2.3,29490
+West Ham,2/17/2024,Premier League,Matchweek 25,A,Nott'ham Forest,-2,-2.3,29490
+Aston Villa,2/17/2024,Premier League,Matchweek 25,A,Fulham,1,0,24401
+Fulham,2/17/2024,Premier League,Matchweek 25,H,Aston Villa,-1,0,24401
+Arsenal,2/17/2024,Premier League,Matchweek 25,A,Burnley,5,2,21311
+Burnley,2/17/2024,Premier League,Matchweek 25,H,Arsenal,-5,-2,21311
+Brentford,2/17/2024,Premier League,Matchweek 25,H,Liverpool,-3,-1.2,17193
+Liverpool,2/17/2024,Premier League,Matchweek 25,A,Brentford,3,1.2,17193
+Brighton,2/18/2024,Premier League,Matchweek 25,A,Sheffield Utd,5,2.3,29522
+Sheffield Utd,2/18/2024,Premier League,Matchweek 25,H,Brighton,-5,-2.3,29522
+Luton Town,2/18/2024,Premier League,Matchweek 25,H,Manchester Utd,-1,-1.1,11483
+Manchester Utd,2/18/2024,Premier League,Matchweek 25,A,Luton Town,1,1.1,11483
+Crystal Palace,2/19/2024,Premier League,Matchweek 25,A,Everton,0,-1,38164
+Everton,2/19/2024,Premier League,Matchweek 25,H,Crystal Palace,0,1,38164
+Brentford,2/20/2024,Premier League,Matchweek 18,A,Manchester City,-1,-1.9,52247
+Manchester City,2/20/2024,Premier League,Matchweek 18,H,Brentford,1,1.9,52247
+Liverpool,2/21/2024,Premier League,Matchweek 26,H,Luton Town,3,2.4,59713
+Luton Town,2/21/2024,Premier League,Matchweek 26,A,Liverpool,-3,-2.4,59713
+Arsenal,2/21/2024,Champions Lg,Round of 16,A,Porto,-1,-0.6,49111
+Fulham,2/24/2024,Premier League,Matchweek 26,A,Manchester Utd,1,-0.5,73487
+Manchester Utd,2/24/2024,Premier League,Matchweek 26,H,Fulham,-1,0.5,73487
+Arsenal,2/24/2024,Premier League,Matchweek 26,H,Newcastle Utd,3,2.6,60298
+Newcastle Utd,2/24/2024,Premier League,Matchweek 26,A,Arsenal,-3,-2.6,60298
+Aston Villa,2/24/2024,Premier League,Matchweek 26,H,Nott'ham Forest,2,1,42131
+Nott'ham Forest,2/24/2024,Premier League,Matchweek 26,A,Aston Villa,-2,-1,42131
+Brighton,2/24/2024,Premier League,Matchweek 26,H,Everton,0,1.1,41646
+Everton,2/24/2024,Premier League,Matchweek 26,A,Brighton,0,-1.1,41646
+Burnley,2/24/2024,Premier League,Matchweek 26,A,Crystal Palace,-3,-2.3,24042
+Crystal Palace,2/24/2024,Premier League,Matchweek 26,H,Burnley,3,2.3,24042
+Bournemouth,2/24/2024,Premier League,Matchweek 26,H,Manchester City,-1,-0.7,11184
+Manchester City,2/24/2024,Premier League,Matchweek 26,A,Bournemouth,1,0.7,11184
+Chelsea,2/25/2024,EFL Cup,Final,N,Liverpool,-1,0,88868
+Liverpool,2/25/2024,EFL Cup,Final,N,Chelsea,1,0,88868
+Sheffield Utd,2/25/2024,Premier League,Matchweek 26,A,Wolves,-1,-0.7,30789
+Wolves,2/25/2024,Premier League,Matchweek 26,H,Sheffield Utd,1,0.7,30789
+Brentford,2/26/2024,Premier League,Matchweek 26,A,West Ham,-2,-0.8,62450
+West Ham,2/26/2024,Premier League,Matchweek 26,H,Brentford,2,0.8,62450
+Newcastle Utd,2/27/2024,FA Cup,Fifth round proper,A,Blackburn,0,0,22730
+Luton Town,2/27/2024,FA Cup,Fifth round proper,H,Manchester City,-4,0,11163
+Manchester City,2/27/2024,FA Cup,Fifth round proper,A,Luton Town,4,0,11163
+Bournemouth,2/27/2024,FA Cup,Fifth round proper,H,Leicester City,-1,0,10872
+Liverpool,2/28/2024,FA Cup,Fifth round proper,H,Southampton,3,0,59782
+Chelsea,2/28/2024,FA Cup,Fifth round proper,H,Leeds United,1,0,37892
+Manchester Utd,2/28/2024,FA Cup,Fifth round proper,A,Nott'ham Forest,1,0,28665
+Nott'ham Forest,2/28/2024,FA Cup,Fifth round proper,H,Manchester Utd,-1,0,28665
+Brighton,2/28/2024,FA Cup,Fifth round proper,A,Wolves,-1,0,23822
+Wolves,2/28/2024,FA Cup,Fifth round proper,H,Brighton,1,0,23822
+Crystal Palace,3/2/2024,Premier League,Matchweek 27,A,Tottenham,-2,-1.6,61339
+Tottenham,3/2/2024,Premier League,Matchweek 27,H,Crystal Palace,2,1.6,61339
+Newcastle Utd,3/2/2024,Premier League,Matchweek 27,H,Wolves,3,1.3,52206
+Wolves,3/2/2024,Premier League,Matchweek 27,A,Newcastle Utd,-3,-1.3,52206
+Everton,3/2/2024,Premier League,Matchweek 27,H,West Ham,-2,0.8,39262
+West Ham,3/2/2024,Premier League,Matchweek 27,A,Everton,2,-0.8,39262
+Liverpool,3/2/2024,Premier League,Matchweek 27,A,Nott'ham Forest,1,1,29603
+Nott'ham Forest,3/2/2024,Premier League,Matchweek 27,H,Liverpool,-1,-1,29603
+Brighton,3/2/2024,Premier League,Matchweek 27,A,Fulham,-3,0,24460
+Fulham,3/2/2024,Premier League,Matchweek 27,H,Brighton,3,0,24460
+Brentford,3/2/2024,Premier League,Matchweek 27,H,Chelsea,0,0,17140
+Chelsea,3/2/2024,Premier League,Matchweek 27,A,Brentford,0,0,17140
+Aston Villa,3/2/2024,Premier League,Matchweek 27,A,Luton Town,1,0.1,11594
+Luton Town,3/2/2024,Premier League,Matchweek 27,H,Aston Villa,-1,-0.1,11594
+Manchester City,3/3/2024,Premier League,Matchweek 27,H,Manchester Utd,2,3.1,53514
+Manchester Utd,3/3/2024,Premier League,Matchweek 27,A,Manchester City,-2,-3.1,53514
+Bournemouth,3/3/2024,Premier League,Matchweek 27,A,Burnley,2,-0.4,19713
+Burnley,3/3/2024,Premier League,Matchweek 27,H,Bournemouth,-2,0.4,19713
+Arsenal,3/4/2024,Premier League,Matchweek 27,A,Sheffield Utd,6,2.1,29157
+Sheffield Utd,3/4/2024,Premier League,Matchweek 27,H,Arsenal,-6,-2.1,29157
+Manchester City,3/6/2024,Champions Lg,Round of 16,H,FC Copenhagen,2,-0.4,51531
+Brighton,3/7/2024,Europa Lg,Round of 16,A,Roma,-4,-1.9,64877
+Aston Villa,3/7/2024,Conf Lg,Round of 16,A,Ajax,0,-0.5,52197
+West Ham,3/7/2024,Europa Lg,Round of 16,A,Freiburg,-1,-0.1,34700
+Liverpool,3/7/2024,Europa Lg,Round of 16,A,Sparta Prague,4,1.9,18349
+Everton,3/9/2024,Premier League,Matchweek 28,A,Manchester Utd,-2,-1.1,73601
+Manchester Utd,3/9/2024,Premier League,Matchweek 28,H,Everton,2,1.1,73601
+Arsenal,3/9/2024,Premier League,Matchweek 28,H,Brentford,1,0.3,60331
+Brentford,3/9/2024,Premier League,Matchweek 28,A,Arsenal,-1,-0.3,60331
+Fulham,3/9/2024,Premier League,Matchweek 28,A,Wolves,-1,1.8,30860
+Wolves,3/9/2024,Premier League,Matchweek 28,H,Fulham,1,-1.8,30860
+Crystal Palace,3/9/2024,Premier League,Matchweek 28,H,Luton Town,0,1.9,25103
+Luton Town,3/9/2024,Premier League,Matchweek 28,A,Crystal Palace,0,-1.9,25103
+Bournemouth,3/9/2024,Premier League,Matchweek 28,H,Sheffield Utd,0,2.1,11074
+Sheffield Utd,3/9/2024,Premier League,Matchweek 28,A,Bournemouth,0,-2.1,11074
+Burnley,3/10/2024,Premier League,Matchweek 28,A,West Ham,0,-1.4,62441
+West Ham,3/10/2024,Premier League,Matchweek 28,H,Burnley,0,1.4,62441
+Liverpool,3/10/2024,Premier League,Matchweek 28,H,Manchester City,0,1.1,59947
+Manchester City,3/10/2024,Premier League,Matchweek 28,A,Liverpool,0,-1.1,59947
+Aston Villa,3/10/2024,Premier League,Matchweek 28,H,Tottenham,-4,-0.7,42310
+Tottenham,3/10/2024,Premier League,Matchweek 28,A,Aston Villa,4,0.7,42310
+Brighton,3/10/2024,Premier League,Matchweek 28,H,Nott'ham Forest,1,-0.3,31505
+Nott'ham Forest,3/10/2024,Premier League,Matchweek 28,A,Brighton,-1,0.3,31505
+Chelsea,3/11/2024,Premier League,Matchweek 28,H,Newcastle Utd,1,0.9,37753
+Newcastle Utd,3/11/2024,Premier League,Matchweek 28,A,Chelsea,-1,-0.9,37753
+Arsenal,3/12/2024,Champions Lg,Round of 16,H,Porto,1,0.4,60257
+Bournemouth,3/13/2024,Premier League,Matchweek 17,H,Luton Town,1,0.3,11198
+Luton Town,3/13/2024,Premier League,Matchweek 17,A,Bournemouth,-1,-0.3,11198
+Liverpool,3/14/2024,Europa Lg,Round of 16,H,Sparta Prague,5,3.2,59581
+West Ham,3/14/2024,Europa Lg,Round of 16,H,Freiburg,5,1.8,51014
+Aston Villa,3/14/2024,Conf Lg,Round of 16,H,Ajax,4,0.8,37916
+Brighton,3/14/2024,Europa Lg,Round of 16,H,Roma,1,1,30380
+Manchester City,3/16/2024,FA Cup,Quarter-finals,H,Newcastle Utd,2,0,52126
+Newcastle Utd,3/16/2024,FA Cup,Quarter-finals,A,Manchester City,-2,0,52126
+Wolves,3/16/2024,FA Cup,Quarter-finals,H,Coventry City,-1,0,31262
+Fulham,3/16/2024,Premier League,Matchweek 29,H,Tottenham,3,0.2,24410
+Tottenham,3/16/2024,Premier League,Matchweek 29,A,Fulham,-3,-0.2,24410
+Brentford,3/16/2024,Premier League,Matchweek 29,A,Burnley,-1,-1.7,20431
+Burnley,3/16/2024,Premier League,Matchweek 29,H,Brentford,1,1.7,20431
+Luton Town,3/16/2024,Premier League,Matchweek 29,H,Nott'ham Forest,0,-1.4,11630
+Nott'ham Forest,3/16/2024,Premier League,Matchweek 29,A,Luton Town,0,1.4,11630
+Liverpool,3/17/2024,FA Cup,Quarter-finals,A,Manchester Utd,-1,0,72291
+Manchester Utd,3/17/2024,FA Cup,Quarter-finals,H,Liverpool,1,0,72291
+Aston Villa,3/17/2024,Premier League,Matchweek 29,A,West Ham,0,-1.3,62461
+West Ham,3/17/2024,Premier League,Matchweek 29,H,Aston Villa,0,1.3,62461
+Chelsea,3/17/2024,FA Cup,Quarter-finals,H,Leicester City,2,0,39589
+Luton Town,3/30/2024,Premier League,Matchweek 30,A,Tottenham,-1,-2.4,61534
+Tottenham,3/30/2024,Premier League,Matchweek 30,H,Luton Town,1,2.4,61534
+Newcastle Utd,3/30/2024,Premier League,Matchweek 30,H,West Ham,1,2.7,52199
+West Ham,3/30/2024,Premier League,Matchweek 30,A,Newcastle Utd,-1,-2.7,52199
+Aston Villa,3/30/2024,Premier League,Matchweek 30,H,Wolves,2,-0.5,42640
+Wolves,3/30/2024,Premier League,Matchweek 30,A,Aston Villa,-2,0.5,42640
+Burnley,3/30/2024,Premier League,Matchweek 30,A,Chelsea,0,-2.6,39535
+Chelsea,3/30/2024,Premier League,Matchweek 30,H,Burnley,0,2.6,39535
+Fulham,3/30/2024,Premier League,Matchweek 30,A,Sheffield Utd,0,-0.6,30010
+Sheffield Utd,3/30/2024,Premier League,Matchweek 30,H,Fulham,0,0.6,30010
+Crystal Palace,3/30/2024,Premier League,Matchweek 30,A,Nott'ham Forest,0,0.3,29520
+Nott'ham Forest,3/30/2024,Premier League,Matchweek 30,H,Crystal Palace,0,-0.3,29520
+Brentford,3/30/2024,Premier League,Matchweek 30,H,Manchester Utd,0,2.6,17138
+Manchester Utd,3/30/2024,Premier League,Matchweek 30,A,Brentford,0,-2.6,17138
+Bournemouth,3/30/2024,Premier League,Matchweek 30,H,Everton,1,0.3,11207
+Everton,3/30/2024,Premier League,Matchweek 30,A,Bournemouth,-1,-0.3,11207
+Brighton,3/31/2024,Premier League,Matchweek 30,A,Liverpool,-1,-2.3,60061
+Liverpool,3/31/2024,Premier League,Matchweek 30,H,Brighton,1,2.3,60061
+Arsenal,3/31/2024,Premier League,Matchweek 30,A,Manchester City,0,-0.3,52178
+Manchester City,3/31/2024,Premier League,Matchweek 30,H,Arsenal,0,0.3,52178
+Tottenham,4/2/2024,Premier League,Matchweek 31,A,West Ham,0,-0.5,62469
+West Ham,4/2/2024,Premier League,Matchweek 31,H,Tottenham,0,0.5,62469
+Everton,4/2/2024,Premier League,Matchweek 31,A,Newcastle Utd,0,-1,52135
+Newcastle Utd,4/2/2024,Premier League,Matchweek 31,H,Everton,0,1,52135
+Fulham,4/2/2024,Premier League,Matchweek 31,A,Nott'ham Forest,-2,0,28997
+Nott'ham Forest,4/2/2024,Premier League,Matchweek 31,H,Fulham,2,0,28997
+Burnley,4/2/2024,Premier League,Matchweek 31,H,Wolves,0,0.4,21528
+Wolves,4/2/2024,Premier League,Matchweek 31,A,Burnley,0,-0.4,21528
+Bournemouth,4/2/2024,Premier League,Matchweek 31,H,Crystal Palace,1,0.9,11058
+Crystal Palace,4/2/2024,Premier League,Matchweek 31,A,Bournemouth,-1,-0.9,11058
+Arsenal,4/3/2024,Premier League,Matchweek 31,H,Luton Town,2,0.4,60262
+Luton Town,4/3/2024,Premier League,Matchweek 31,A,Arsenal,-2,-0.4,60262
+Aston Villa,4/3/2024,Premier League,Matchweek 31,A,Manchester City,-3,-2.6,53422
+Manchester City,4/3/2024,Premier League,Matchweek 31,H,Aston Villa,3,2.6,53422
+Brentford,4/3/2024,Premier League,Matchweek 31,H,Brighton,0,-0.5,17024
+Brighton,4/3/2024,Premier League,Matchweek 31,A,Brentford,0,0.5,17024
+Liverpool,4/4/2024,Premier League,Matchweek 31,H,Sheffield Utd,2,1.2,60055
+Sheffield Utd,4/4/2024,Premier League,Matchweek 31,A,Liverpool,-2,-1.2,60055
+Chelsea,4/4/2024,Premier League,Matchweek 31,H,Manchester Utd,1,1.5,39694
+Manchester Utd,4/4/2024,Premier League,Matchweek 31,A,Chelsea,-1,-1.5,39694
+Aston Villa,4/6/2024,Premier League,Matchweek 32,H,Brentford,0,0,42118
+Brentford,4/6/2024,Premier League,Matchweek 32,A,Aston Villa,0,0,42118
+Burnley,4/6/2024,Premier League,Matchweek 32,A,Everton,-1,-0.4,39125
+Everton,4/6/2024,Premier League,Matchweek 32,H,Burnley,1,0.4,39125
+Arsenal,4/6/2024,Premier League,Matchweek 32,A,Brighton,3,2.9,31677
+Brighton,4/6/2024,Premier League,Matchweek 32,H,Arsenal,-3,-2.9,31677
+West Ham,4/6/2024,Premier League,Matchweek 32,A,Wolves,1,-0.3,31504
+Wolves,4/6/2024,Premier League,Matchweek 32,H,West Ham,-1,0.3,31504
+Crystal Palace,4/6/2024,Premier League,Matchweek 32,H,Manchester City,-2,-0.8,25132
+Manchester City,4/6/2024,Premier League,Matchweek 32,A,Crystal Palace,2,0.8,25132
+Fulham,4/6/2024,Premier League,Matchweek 32,H,Newcastle Utd,-1,0.2,24418
+Newcastle Utd,4/6/2024,Premier League,Matchweek 32,A,Fulham,1,-0.2,24418
+Bournemouth,4/6/2024,Premier League,Matchweek 32,A,Luton Town,-1,-1.1,11797
+Luton Town,4/6/2024,Premier League,Matchweek 32,H,Bournemouth,1,1.1,11797
+Liverpool,4/7/2024,Premier League,Matchweek 32,A,Manchester Utd,0,2.9,73501
+Manchester Utd,4/7/2024,Premier League,Matchweek 32,H,Liverpool,0,-2.9,73501
+Nott'ham Forest,4/7/2024,Premier League,Matchweek 32,A,Tottenham,-2,0,61098
+Tottenham,4/7/2024,Premier League,Matchweek 32,H,Nott'ham Forest,2,0,61098
+Chelsea,4/7/2024,Premier League,Matchweek 32,A,Sheffield Utd,0,-1.1,28638
+Sheffield Utd,4/7/2024,Premier League,Matchweek 32,H,Chelsea,0,1.1,28638
+Manchester City,4/9/2024,Champions Lg,Quarter-finals,A,Real Madrid,0,0.1,76680
+Arsenal,4/9/2024,Champions Lg,Quarter-finals,H,Bayern Munich,0,-0.9,60221
+Liverpool,4/11/2024,Europa Lg,Quarter-finals,H,Atalanta,-3,-0.6,59004
+Aston Villa,4/11/2024,Conf Lg,Quarter-finals,H,Lille,1,-0.4,37220
+West Ham,4/11/2024,Europa Lg,Quarter-finals,A,Leverkusen,-2,-2.1,30210
+Luton Town,4/13/2024,Premier League,Matchweek 33,A,Manchester City,-4,-3.7,52149
+Manchester City,4/13/2024,Premier League,Matchweek 33,H,Luton Town,4,3.7,52149
+Newcastle Utd,4/13/2024,Premier League,Matchweek 33,H,Tottenham,4,2,52147
+Tottenham,4/13/2024,Premier League,Matchweek 33,A,Newcastle Utd,-4,-2,52147
+Nott'ham Forest,4/13/2024,Premier League,Matchweek 33,H,Wolves,0,0.9,29604
+Wolves,4/13/2024,Premier League,Matchweek 33,A,Nott'ham Forest,0,-0.9,29604
+Brighton,4/13/2024,Premier League,Matchweek 33,A,Burnley,0,-0.8,20687
+Burnley,4/13/2024,Premier League,Matchweek 33,H,Brighton,0,0.8,20687
+Brentford,4/13/2024,Premier League,Matchweek 33,H,Sheffield Utd,2,0.2,17115
+Sheffield Utd,4/13/2024,Premier League,Matchweek 33,A,Brentford,-2,-0.2,17115
+Bournemouth,4/13/2024,Premier League,Matchweek 33,H,Manchester Utd,0,0.4,11229
+Manchester Utd,4/13/2024,Premier League,Matchweek 33,A,Bournemouth,0,-0.4,11229
+Fulham,4/14/2024,Premier League,Matchweek 33,A,West Ham,2,2.3,62459
+West Ham,4/14/2024,Premier League,Matchweek 33,H,Fulham,-2,-2.3,62459
+Arsenal,4/14/2024,Premier League,Matchweek 33,H,Aston Villa,-2,0.7,60350
+Aston Villa,4/14/2024,Premier League,Matchweek 33,A,Arsenal,2,-0.7,60350
+Crystal Palace,4/14/2024,Premier League,Matchweek 33,A,Liverpool,1,-0.7,60090
+Liverpool,4/14/2024,Premier League,Matchweek 33,H,Crystal Palace,-1,0.7,60090
+Chelsea,4/15/2024,Premier League,Matchweek 33,H,Everton,6,1.6,39392
+Everton,4/15/2024,Premier League,Matchweek 33,A,Chelsea,-6,-1.6,39392
+Arsenal,4/17/2024,Champions Lg,Quarter-finals,A,Bayern Munich,-1,-0.9,75000
+Manchester City,4/17/2024,Champions Lg,Quarter-finals,H,Real Madrid,0,1.3,52306
+West Ham,4/18/2024,Europa Lg,Quarter-finals,H,Leverkusen,0,0.4,62473
+Aston Villa,4/18/2024,Conf Lg,Quarter-finals,A,Lille,-1,-0.2,47093
+Liverpool,4/18/2024,Europa Lg,Quarter-finals,A,Atalanta,1,1,14994
+Chelsea,4/20/2024,FA Cup,Semi-finals,N,Manchester City,-1,0,80902
+Manchester City,4/20/2024,FA Cup,Semi-finals,N,Chelsea,1,0,80902
+Arsenal,4/20/2024,Premier League,Matchweek 34,A,Wolves,2,1,31621
+Wolves,4/20/2024,Premier League,Matchweek 34,H,Arsenal,-2,-1,31621
+Burnley,4/20/2024,Premier League,Matchweek 34,A,Sheffield Utd,3,-0.2,28964
+Sheffield Utd,4/20/2024,Premier League,Matchweek 34,H,Burnley,-3,0.2,28964
+Brentford,4/20/2024,Premier League,Matchweek 34,A,Luton Town,4,2.5,11877
+Luton Town,4/20/2024,Premier League,Matchweek 34,H,Brentford,-4,-2.5,11877
+Manchester Utd,4/21/2024,FA Cup,Semi-finals,N,Coventry City,0,0,83672
+Aston Villa,4/21/2024,Premier League,Matchweek 34,H,Bournemouth,2,0.6,42189
+Bournemouth,4/21/2024,Premier League,Matchweek 34,A,Aston Villa,-2,-0.6,42189
+Everton,4/21/2024,Premier League,Matchweek 34,H,Nott'ham Forest,2,-0.6,39239
+Nott'ham Forest,4/21/2024,Premier League,Matchweek 34,A,Everton,-2,0.6,39239
+Crystal Palace,4/21/2024,Premier League,Matchweek 34,H,West Ham,3,1.1,25145
+West Ham,4/21/2024,Premier League,Matchweek 34,A,Crystal Palace,-3,-1.1,25145
+Fulham,4/21/2024,Premier League,Matchweek 34,H,Liverpool,-2,-0.2,24414
+Liverpool,4/21/2024,Premier League,Matchweek 34,A,Fulham,2,0.2,24414
+Arsenal,4/23/2024,Premier League,Matchweek 29,H,Chelsea,5,1.7,60238
+Chelsea,4/23/2024,Premier League,Matchweek 29,A,Arsenal,-5,-1.7,60238
+Manchester Utd,4/24/2024,Premier League,Matchweek 29,H,Sheffield Utd,2,2.1,73549
+Sheffield Utd,4/24/2024,Premier League,Matchweek 29,A,Manchester Utd,-2,-2.1,73549
+Everton,4/24/2024,Premier League,Matchweek 29,H,Liverpool,2,-0.9,38222
+Liverpool,4/24/2024,Premier League,Matchweek 29,A,Everton,-2,0.9,38222
+Bournemouth,4/24/2024,Premier League,Matchweek 29,A,Wolves,1,1.4,25541
+Wolves,4/24/2024,Premier League,Matchweek 29,H,Bournemouth,-1,-1.4,25541
+Crystal Palace,4/24/2024,Premier League,Matchweek 29,H,Newcastle Utd,2,0.5,25002
+Newcastle Utd,4/24/2024,Premier League,Matchweek 29,A,Crystal Palace,-2,-0.5,25002
+Brighton,4/25/2024,Premier League,Matchweek 29,H,Manchester City,-4,-0.8,31596
+Manchester City,4/25/2024,Premier League,Matchweek 29,A,Brighton,4,0.8,31596
+Burnley,4/27/2024,Premier League,Matchweek 35,A,Manchester Utd,0,-0.6,73571
+Manchester Utd,4/27/2024,Premier League,Matchweek 35,H,Burnley,0,0.6,73571
+Liverpool,4/27/2024,Premier League,Matchweek 35,A,West Ham,0,1,62474
+West Ham,4/27/2024,Premier League,Matchweek 35,H,Liverpool,0,-1,62474
+Newcastle Utd,4/27/2024,Premier League,Matchweek 35,H,Sheffield Utd,4,1.6,52196
+Sheffield Utd,4/27/2024,Premier League,Matchweek 35,A,Newcastle Utd,-4,-1.6,52196
+Aston Villa,4/27/2024,Premier League,Matchweek 35,H,Chelsea,0,-0.5,42354
+Chelsea,4/27/2024,Premier League,Matchweek 35,A,Aston Villa,0,0.5,42354
+Brentford,4/27/2024,Premier League,Matchweek 35,A,Everton,-1,0.1,39098
+Everton,4/27/2024,Premier League,Matchweek 35,H,Brentford,1,-0.1,39098
+Luton Town,4/27/2024,Premier League,Matchweek 35,A,Wolves,-1,-0.6,31531
+Wolves,4/27/2024,Premier League,Matchweek 35,H,Luton Town,1,0.6,31531
+Crystal Palace,4/27/2024,Premier League,Matchweek 35,A,Fulham,0,-0.1,24142
+Fulham,4/27/2024,Premier League,Matchweek 35,H,Crystal Palace,0,0.1,24142
+Arsenal,4/28/2024,Premier League,Matchweek 35,A,Tottenham,1,-1.3,61554
+Tottenham,4/28/2024,Premier League,Matchweek 35,H,Arsenal,-1,1.3,61554
+Manchester City,4/28/2024,Premier League,Matchweek 35,A,Nott'ham Forest,2,-1,29677
+Nott'ham Forest,4/28/2024,Premier League,Matchweek 35,H,Manchester City,-2,1,29677
+Bournemouth,4/28/2024,Premier League,Matchweek 35,H,Brighton,3,1,11188
+Brighton,4/28/2024,Premier League,Matchweek 35,A,Bournemouth,-3,-1,11188
+Aston Villa,5/2/2024,Conf Lg,Semi-finals,H,Olympiacos,-2,-0.2,41220
+Chelsea,5/2/2024,Premier League,Matchweek 26,H,Tottenham,2,0.6,39086
+Tottenham,5/2/2024,Premier League,Matchweek 26,A,Chelsea,-2,-0.6,39086
+Everton,5/3/2024,Premier League,Matchweek 36,A,Luton Town,0,0.6,11873
+Luton Town,5/3/2024,Premier League,Matchweek 36,H,Everton,0,-0.6,11873
+Arsenal,5/4/2024,Premier League,Matchweek 36,H,Bournemouth,3,2.8,60348
+Bournemouth,5/4/2024,Premier League,Matchweek 36,A,Arsenal,-3,-2.8,60348
+Manchester City,5/4/2024,Premier League,Matchweek 36,H,Wolves,4,3.4,52439
+Wolves,5/4/2024,Premier League,Matchweek 36,A,Manchester City,-4,-3.4,52439
+Nott'ham Forest,5/4/2024,Premier League,Matchweek 36,A,Sheffield Utd,2,-0.7,28516
+Sheffield Utd,5/4/2024,Premier League,Matchweek 36,H,Nott'ham Forest,-2,0.7,28516
+Burnley,5/4/2024,Premier League,Matchweek 36,H,Newcastle Utd,-3,-2.4,21781
+Newcastle Utd,5/4/2024,Premier League,Matchweek 36,A,Burnley,3,2.4,21781
+Brentford,5/4/2024,Premier League,Matchweek 36,H,Fulham,0,-0.7,17090
+Fulham,5/4/2024,Premier League,Matchweek 36,A,Brentford,0,0.7,17090
+Liverpool,5/5/2024,Premier League,Matchweek 36,H,Tottenham,2,2.1,60075
+Tottenham,5/5/2024,Premier League,Matchweek 36,A,Liverpool,-2,-2.1,60075
+Chelsea,5/5/2024,Premier League,Matchweek 36,H,West Ham,5,3.2,39295
+West Ham,5/5/2024,Premier League,Matchweek 36,A,Chelsea,-5,-3.2,39295
+Aston Villa,5/5/2024,Premier League,Matchweek 36,A,Brighton,-1,-2.4,31596
+Brighton,5/5/2024,Premier League,Matchweek 36,H,Aston Villa,1,2.4,31596
+Crystal Palace,5/6/2024,Premier League,Matchweek 36,H,Manchester Utd,4,1.3,25190
+Manchester Utd,5/6/2024,Premier League,Matchweek 36,A,Crystal Palace,-4,-1.3,25190
+Aston Villa,5/9/2024,Conf Lg,Semi-finals,A,Olympiacos,-2,-0.1,33000
+Luton Town,5/11/2024,Premier League,Matchweek 37,A,West Ham,-2,-2.9,62475
+West Ham,5/11/2024,Premier League,Matchweek 37,H,Luton Town,2,2.9,62475
+Burnley,5/11/2024,Premier League,Matchweek 37,A,Tottenham,-1,-2,61148
+Tottenham,5/11/2024,Premier League,Matchweek 37,H,Burnley,1,2,61148
+Brighton,5/11/2024,Premier League,Matchweek 37,A,Newcastle Utd,0,-0.8,51997
+Newcastle Utd,5/11/2024,Premier League,Matchweek 37,H,Brighton,0,0.8,51997
+Everton,5/11/2024,Premier League,Matchweek 37,H,Sheffield Utd,1,1.7,39221
+Sheffield Utd,5/11/2024,Premier League,Matchweek 37,A,Everton,-1,-1.7,39221
+Crystal Palace,5/11/2024,Premier League,Matchweek 37,A,Wolves,2,1,31424
+Wolves,5/11/2024,Premier League,Matchweek 37,H,Crystal Palace,-2,-1,31424
+Chelsea,5/11/2024,Premier League,Matchweek 37,A,Nott'ham Forest,1,0.1,29708
+Nott'ham Forest,5/11/2024,Premier League,Matchweek 37,H,Chelsea,-1,-0.1,29708
+Fulham,5/11/2024,Premier League,Matchweek 37,H,Manchester City,-4,-3.1,24418
+Manchester City,5/11/2024,Premier League,Matchweek 37,A,Fulham,4,3.1,24418
+Bournemouth,5/11/2024,Premier League,Matchweek 37,H,Brentford,-1,-0.4,11154
+Brentford,5/11/2024,Premier League,Matchweek 37,A,Bournemouth,1,0.4,11154
+Arsenal,5/12/2024,Premier League,Matchweek 37,A,Manchester Utd,1,1,73600
+Manchester Utd,5/12/2024,Premier League,Matchweek 37,H,Arsenal,-1,-1,73600
+Aston Villa,5/13/2024,Premier League,Matchweek 37,H,Liverpool,0,1.4,42241
+Liverpool,5/13/2024,Premier League,Matchweek 37,A,Aston Villa,0,-1.4,42241
+Manchester City,5/14/2024,Premier League,Matchweek 34,A,Tottenham,2,0.7,61065
+Tottenham,5/14/2024,Premier League,Matchweek 34,H,Manchester City,-2,-0.7,61065
+Manchester Utd,5/15/2024,Premier League,Matchweek 34,H,Newcastle Utd,1,-0.7,73582
+Newcastle Utd,5/15/2024,Premier League,Matchweek 34,A,Manchester Utd,-1,0.7,73582
+Brighton,5/15/2024,Premier League,Matchweek 34,H,Chelsea,-1,-0.2,31555
+Chelsea,5/15/2024,Premier League,Matchweek 34,A,Brighton,1,0.2,31555
+Arsenal,5/19/2024,Premier League,Matchweek 38,H,Everton,1,2.3,60312
+Everton,5/19/2024,Premier League,Matchweek 38,A,Arsenal,-1,-2.3,60312
+Liverpool,5/19/2024,Premier League,Matchweek 38,H,Wolves,2,4,60059
+Wolves,5/19/2024,Premier League,Matchweek 38,A,Liverpool,-2,-4,60059
+Manchester City,5/19/2024,Premier League,Matchweek 38,H,West Ham,2,1.5,55097
+West Ham,5/19/2024,Premier League,Matchweek 38,A,Manchester City,-2,-1.5,55097
+Bournemouth,5/19/2024,Premier League,Matchweek 38,A,Chelsea,-1,1.1,39724
+Chelsea,5/19/2024,Premier League,Matchweek 38,H,Bournemouth,1,-1.1,39724
+Brighton,5/19/2024,Premier League,Matchweek 38,H,Manchester Utd,-2,0.4,31662
+Manchester Utd,5/19/2024,Premier League,Matchweek 38,A,Brighton,2,-0.4,31662
+Sheffield Utd,5/19/2024,Premier League,Matchweek 38,H,Tottenham,-3,-2.1,29116
+Tottenham,5/19/2024,Premier League,Matchweek 38,A,Sheffield Utd,3,2.1,29116
+Aston Villa,5/19/2024,Premier League,Matchweek 38,A,Crystal Palace,-5,-1.6,25191
+Crystal Palace,5/19/2024,Premier League,Matchweek 38,H,Aston Villa,5,1.6,25191
+Burnley,5/19/2024,Premier League,Matchweek 38,H,Nott'ham Forest,-1,-0.5,21109
+Nott'ham Forest,5/19/2024,Premier League,Matchweek 38,A,Burnley,1,0.5,21109
+Brentford,5/19/2024,Premier League,Matchweek 38,H,Newcastle Utd,-2,-2.3,17124
+Newcastle Utd,5/19/2024,Premier League,Matchweek 38,A,Brentford,2,2.3,17124
+Fulham,5/19/2024,Premier League,Matchweek 38,A,Luton Town,2,-0.9,12027
+Luton Town,5/19/2024,Premier League,Matchweek 38,H,Fulham,-2,0.9,12027
+Manchester City,5/25/2024,FA Cup,Final,N,Manchester Utd,-1,0,84814
+Manchester Utd,5/25/2024,FA Cup,Final,N,Manchester City,1,0,84814
