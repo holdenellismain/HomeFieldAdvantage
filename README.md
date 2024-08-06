@@ -91,7 +91,8 @@ There is strong evidence for fans affecting the game because in 2020/21 when gam
 ## Points of Future Exploration
 1. Do teams outperform their xG more often at home?
 2. How does MLS compare for travel and rest advantages with its longer travel distances?
-3. A more complex model for yellow cards/fouls
+3. Could other leagues with worse attendance offer more insight into the correlation between attendance and winning?
+4. A more complex model for yellow cards/fouls
 
 ## Sources
 - Team and match data - [FBref](https://fbref.com)
