@@ -46,7 +46,7 @@ My basic methodology was to find soccer equivalents of all the statistics from M
    - calculate_distance_traveled() calculates how far the home team and away team traveled to get there, based on where their previous matches were.
    - If a team has had a match in the last 5 days, the program assumes they didn't go home and calculates the distance from their previous match to the current match (road trips).
    - If a team did not have a match in the last 5 days, the program assumes they are coming from their home stadium.
-7. Visualizing the data [Excel](charts.xlsx)
+7. Visualizing the data ([Excel](charts.xlsx))
    - Data that was already summarized to the season could be directly plugged into charts but for some stats, I used Pivot Tables to agreggate it further by season or team.
    - Match data had to be summarized by team. I filtered to only include Premier League home matches. Including all matches would lead to many teams being in the final dataset that only played a few games against Premier League teams. Also neutral venues would make any modeling more complicated. 
 
